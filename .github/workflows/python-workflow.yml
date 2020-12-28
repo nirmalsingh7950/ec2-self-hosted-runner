@@ -37,3 +37,6 @@ jobs:
         pwd
         echo "List:"
         ls
+    - name: running test
+      run: |
+        guage run gauge-selenium-python/specs/
