@@ -31,6 +31,9 @@ jobs:
       run: |
         gauge install python
         
-    - name: Running Tests
+    - name: Present working directory
       run: |
-        gauge run gauge-selenium-python/specs/
+        echo "PRESENT WORKING DIRECTORY: "
+        pwd
+        echo "List:"
+        ls
