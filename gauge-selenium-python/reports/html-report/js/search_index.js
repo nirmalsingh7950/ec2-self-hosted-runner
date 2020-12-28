@@ -1,0 +1,1 @@
+var index = {"Tags":{"customer":["specs/CustomerSignup.html","specs/PlaceOrder.html"],"sign-up":["specs/CustomerSignup.html"]},"Specs":{"Customer Log out":["specs/CustomerLogout.html"],"Customer sign-up":["specs/CustomerSignup.html"],"Place an Order":["specs/PlaceOrder.html"]}};

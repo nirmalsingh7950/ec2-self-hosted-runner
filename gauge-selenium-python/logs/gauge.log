@@ -1,0 +1,2313 @@
+18:06:48.196 Plugin python is already installed.
+18:06:48.196 Plugin html-report is already installed.
+18:06:49.844 Checking updates...
+18:06:52.054 Error Message: init() takes no arguments (1 given)
+18:06:52.054 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: init() takes no arguments (1 given)
+18:06:52.054 Error Message: close() takes no arguments (1 given)
+18:06:52.054 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: close() takes no arguments (1 given)
+18:06:52.255 Plugin [Html Report] with pid [10558] has exited
+18:06:52.356 Specifications:	0 executed	0 passed	0 failed	0 skipped
+18:06:52.356 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+18:06:52.356 
+Total time taken: 1.098s
+18:06:52.356 Updates are available. Run `gauge update -c` for more info.
+10:10:39.300 Plugin python is already installed.
+10:10:39.312 Plugin html-report is already installed.
+10:10:40.182 Checking updates...
+10:10:47.379 Error Message: init() takes no arguments (1 given)
+10:10:47.379 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: init() takes no arguments (1 given)
+10:10:47.379 Error Message: close() takes no arguments (1 given)
+10:10:47.379 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: close() takes no arguments (1 given)
+10:10:47.481 Plugin [Html Report] with pid [27549] has exited
+10:10:47.582 Specifications:	0 executed	0 passed	0 failed	0 skipped
+10:10:47.582 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+10:10:47.582 
+Total time taken: 575ms
+10:10:47.582 Updates are available. Run `gauge update -c` for more info.
+12:38:53.748 Plugin python is already installed.
+12:38:53.762 Plugin html-report is already installed.
+12:38:54.607 Checking updates...
+12:38:55.771 Error Message: init() takes no arguments (1 given)
+12:38:55.771 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: init() takes no arguments (1 given)
+12:38:55.771 Error Message: close() takes no arguments (1 given)
+12:38:55.771 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: close() takes no arguments (1 given)
+12:38:55.873 Plugin [Html Report] with pid [31937] has exited
+12:38:55.973 Specifications:	0 executed	0 passed	0 failed	0 skipped
+12:38:55.974 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+12:38:55.974 
+Total time taken: 546ms
+12:39:25.651 Plugin python is already installed.
+12:39:25.651 Plugin html-report is already installed.
+12:39:26.505 Checking updates...
+12:39:27.543 Error Message: init() takes no arguments (1 given)
+12:39:27.543 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: init() takes no arguments (1 given)
+12:39:27.543 Error Message: close() takes no arguments (1 given)
+12:39:27.543 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: close() takes no arguments (1 given)
+12:39:27.644 Plugin [Html Report] with pid [32738] has exited
+12:39:27.744 Specifications:	0 executed	0 passed	0 failed	0 skipped
+12:39:27.745 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+12:39:27.745 
+Total time taken: 388ms
+12:39:43.555 Plugin python is already installed.
+12:39:43.555 Plugin html-report is already installed.
+12:39:44.347 Checking updates...
+12:39:45.650 Error Message: init() takes 0 positional arguments but 1 was given
+12:39:45.650 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: init() takes 0 positional arguments but 1 was given
+12:39:45.650 Error Message: close() takes 0 positional arguments but 1 was given
+12:39:45.650 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: close() takes 0 positional arguments but 1 was given
+12:39:45.753 Plugin [Html Report] with pid [733] has exited
+12:39:45.853 Specifications:	0 executed	0 passed	0 failed	0 skipped
+12:39:45.853 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+12:39:45.853 
+Total time taken: 380ms
+12:41:49.369 Plugin html-report is already installed.
+12:41:49.370 Plugin python is already installed.
+12:41:50.221 Checking updates...
+12:41:51.134 Error Message: init() takes no arguments (1 given)
+12:41:51.134 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: init() takes no arguments (1 given)
+12:41:51.135 Error Message: close() takes no arguments (1 given)
+12:41:51.135 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: close() takes no arguments (1 given)
+12:41:51.237 Plugin [Html Report] with pid [3698] has exited
+12:41:51.337 Specifications:	0 executed	0 passed	0 failed	0 skipped
+12:41:51.337 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+12:41:51.337 
+Total time taken: 389ms
+12:47:51.074 Plugin python is already installed.
+12:47:51.213 Plugin html-report is already installed.
+12:48:03.350 Checking updates...
+12:48:14.458 Failed to download go-install.json file: Get https://downloads.gauge.org/plugin/go?l=python&p=go,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=linux&a=amd64: net/http: TLS handshake timeout
+12:48:25.218 Failed to download html-report-install.json file: Get https://downloads.gauge.org/plugin/html-report?l=python&p=go,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=linux&a=amd64: net/http: TLS handshake timeout
+12:48:26.415 Runner connection error: Timed out connecting to 127.0.0.1:38560
+12:48:26.570 Failed to start gauge API: Timed out connecting to 127.0.0.1:38560
+12:48:43.227 Plugin python is already installed.
+12:48:43.285 Plugin html-report is already installed.
+12:48:55.279 Checking updates...
+12:49:07.788 Failed to download go-install.json file: Get https://downloads.gauge.org/plugin/go?l=python&p=go,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=linux&a=amd64: net/http: TLS handshake timeout
+12:49:19.273 Runner connection error: Timed out connecting to 127.0.0.1:38410
+12:49:19.337 Failed to start gauge API: Timed out connecting to 127.0.0.1:38410
+12:53:51.638 Plugin python is already installed.
+12:53:51.652 Plugin html-report is already installed.
+12:53:56.784 Checking updates...
+12:54:03.893 Error Message: init() takes no arguments (1 given)
+12:54:03.893 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: init() takes no arguments (1 given)
+12:54:03.893 Error Message: close() takes no arguments (1 given)
+12:54:03.893 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: close() takes no arguments (1 given)
+12:54:04.094 Plugin [Html Report] with pid [15786] has exited
+12:54:04.195 Specifications:	0 executed	0 passed	0 failed	0 skipped
+12:54:04.195 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+12:54:04.195 
+Total time taken: 823ms
+12:54:04.195 Updates are available. Run `gauge update -c` for more info.
+12:57:26.575 Plugin python is already installed.
+12:57:26.576 Plugin html-report is already installed.
+12:57:28.113 Checking updates...
+12:57:42.303 Error Message: init() takes 0 positional arguments but 1 was given
+12:57:42.303 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: init() takes 0 positional arguments but 1 was given
+12:57:42.304 Error Message: close() takes 0 positional arguments but 1 was given
+12:57:42.304 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: close() takes 0 positional arguments but 1 was given
+12:57:42.406 Plugin [Html Report] with pid [22190] has exited
+12:57:42.506 Specifications:	0 executed	0 passed	0 failed	0 skipped
+12:57:42.506 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+12:57:42.506 
+Total time taken: 1.921s
+12:57:42.506 Updates are available. Run `gauge update -c` for more info.
+12:59:44.876 Plugin python is already installed.
+12:59:44.876 Plugin html-report is already installed.
+12:59:46.075 Checking updates...
+12:59:47.080 Error Message: init() takes 0 positional arguments but 1 was given
+12:59:47.081 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: init() takes 0 positional arguments but 1 was given
+12:59:47.081 Error Message: close() takes 0 positional arguments but 1 was given
+12:59:47.081 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: close() takes 0 positional arguments but 1 was given
+12:59:47.183 Plugin [Html Report] with pid [25062] has exited
+12:59:47.283 Specifications:	0 executed	0 passed	0 failed	0 skipped
+12:59:47.283 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+12:59:47.283 
+Total time taken: 423ms
+13:12:39.072 Plugin python is already installed.
+13:12:39.081 Plugin html-report is already installed.
+13:12:40.145 Checking updates...
+13:12:41.843 Error Message: init() takes 0 positional arguments but 1 was given
+13:12:41.843 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: init() takes 0 positional arguments but 1 was given
+13:12:41.843 Error Message: close() takes 0 positional arguments but 1 was given
+13:12:41.843 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: close() takes 0 positional arguments but 1 was given
+13:12:41.945 Plugin [Html Report] with pid [10149] has exited
+13:12:42.046 Specifications:	0 executed	0 passed	0 failed	0 skipped
+13:12:42.046 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+13:12:42.046 
+Total time taken: 562ms
+13:12:42.046 Updates are available. Run `gauge update -c` for more info.
+13:12:49.365 Plugin python is already installed.
+13:12:49.365 Plugin html-report is already installed.
+13:12:50.218 Checking updates...
+13:12:51.461 Error Message: init() takes 0 positional arguments but 1 was given
+13:12:51.461 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: init() takes 0 positional arguments but 1 was given
+13:12:51.461 Error Message: close() takes 0 positional arguments but 1 was given
+13:12:51.461 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: close() takes 0 positional arguments but 1 was given
+13:12:51.562 Plugin [Html Report] with pid [10395] has exited
+13:12:51.663 Specifications:	0 executed	0 passed	0 failed	0 skipped
+13:12:51.663 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+13:12:51.663 
+Total time taken: 439ms
+13:12:55.995 Plugin python is already installed.
+13:12:55.996 Plugin html-report is already installed.
+13:12:56.763 Checking updates...
+13:12:58.049 Error Message: init() takes 0 positional arguments but 1 was given
+13:12:58.049 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: init() takes 0 positional arguments but 1 was given
+13:12:58.049 Error Message: close() takes 0 positional arguments but 1 was given
+13:12:58.049 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: close() takes 0 positional arguments but 1 was given
+13:12:58.150 Plugin [Html Report] with pid [10639] has exited
+13:12:58.251 Specifications:	0 executed	0 passed	0 failed	0 skipped
+13:12:58.251 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+13:12:58.251 
+Total time taken: 392ms
+13:12:59.196 Plugin python is already installed.
+13:12:59.196 Plugin html-report is already installed.
+13:13:00.027 Checking updates...
+13:13:01.304 Error Message: init() takes 0 positional arguments but 1 was given
+13:13:01.304 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: init() takes 0 positional arguments but 1 was given
+13:13:01.304 Error Message: close() takes 0 positional arguments but 1 was given
+13:13:01.304 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: close() takes 0 positional arguments but 1 was given
+13:13:01.407 Plugin [Html Report] with pid [10759] has exited
+13:13:01.508 Specifications:	0 executed	0 passed	0 failed	0 skipped
+13:13:01.508 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+13:13:01.508 
+Total time taken: 409ms
+13:13:38.580 Plugin python is already installed.
+13:13:38.580 Plugin html-report is already installed.
+13:13:39.385 Checking updates...
+13:13:40.567 Error Message: init() takes 1 positional argument but 2 were given
+13:13:40.567 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: init() takes 1 positional argument but 2 were given
+13:13:40.567 Error Message: close() takes 0 positional arguments but 1 was given
+13:13:40.567 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: close() takes 0 positional arguments but 1 was given
+13:13:40.670 Plugin [Html Report] with pid [11757] has exited
+13:13:40.770 Specifications:	0 executed	0 passed	0 failed	0 skipped
+13:13:40.770 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+13:13:40.770 
+Total time taken: 345ms
+13:13:52.483 Plugin python is already installed.
+13:13:52.483 Plugin html-report is already installed.
+13:13:53.269 Checking updates...
+13:13:54.552 Error Message: init() takes 0 positional arguments but 1 was given
+13:13:54.552 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: init() takes 0 positional arguments but 1 was given
+13:13:54.553 Error Message: close() takes 0 positional arguments but 1 was given
+13:13:54.553 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+TypeError: close() takes 0 positional arguments but 1 was given
+13:13:54.653 Plugin [Html Report] with pid [12093] has exited
+13:13:54.756 Specifications:	0 executed	0 passed	0 failed	0 skipped
+13:13:54.756 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+13:13:54.756 
+Total time taken: 378ms
+13:14:46.801 Plugin python is already installed.
+13:14:46.801 Plugin html-report is already installed.
+13:14:47.656 Checking updates...
+13:14:58.929 Plugin html-report is already installed.
+13:14:58.929 Plugin python is already installed.
+13:14:59.693 Checking updates...
+13:15:14.655 # Customer Log out
+13:15:14.655 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |John18|john18.doe@example.com|password|
+13:15:14.655 ## Customer must be able to log out
+13:15:14.656 * Go to active admin store
+
+13:15:14.656 * Go to the store website
+13:15:18.738 * Clear previous login
+13:15:18.740 * Sign up as <name> with email <email> and <password>
+13:15:20.888 * Log out
+13:15:20.888 * Log out the customer
+13:15:21.580 * Show a message "You have been logged out." "Log in"
+13:15:21.639 * Give an option to Log In
+
+13:15:21.650 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |Jane18|jane18.doe@example.com|password|
+13:15:21.650 ## Customer must be able to log out
+13:15:21.651 * Go to active admin store
+
+13:15:21.651 * Go to the store website
+13:15:22.044 * Clear previous login
+13:15:22.048 * Sign up as <name> with email <email> and <password>
+13:15:23.528 * Log out
+13:15:23.528 * Log out the customer
+13:15:23.960 * Show a message "You have been logged out." "Log in"
+13:15:23.985 * Give an option to Log In
+
+13:15:23.998 # Customer sign-up
+13:15:23.999 ## Customer Sign-up
+13:15:23.999 * Go to active admin store
+
+13:15:23.999 * Go to the store website
+13:15:24.376 * Clear previous login
+13:15:24.377 * Sign up a new customer with name "Jann18" email "jann18.doe@example.com" and "password"
+13:15:24.377 * Sign up as <name> with email <email> and <password>
+13:15:25.513 * Show a message "Thank you for signing up! You are now logged in." "Log out"
+13:15:25.541 * Check if the user "Jann18" is logged in
+13:15:25.541 * Show the log in status for user <name>
+13:15:25.584 * Give an option to Log Out
+
+13:15:25.584 * See items available for purchase.
+13:15:25.599 * Log out
+13:15:25.599 * Log out the customer
+13:15:26.020 * Show a message "You have been logged out." "Log in"
+13:15:26.046 * Give an option to Log In
+
+13:15:26.058 # Place an Order
+13:15:26.059 ## Buy a book
+13:15:26.059 * Go to active admin store
+
+13:15:26.059 * Go to the store website
+13:15:26.388 * Clear previous login
+13:15:26.392 * Log in with customer name "ScroogeMcduck" and "password"
+13:15:26.392 * Login as name <name> and <password>
+13:15:27.760 * Show the log in status for user <name>
+13:15:27.787 * See items available for purchase.
+13:15:27.802 * Place order for "Beginning Ruby: From Novice to Professional". The cart should now contain "1" items
+13:15:27.802 * See items available for purchase.
+13:15:27.813 * Add <item> and the cart will now contain <itemcount> item(s)
+13:15:27.813 * See items available for purchase.
+13:15:27.826 * Add item <item> to the cart.
+13:15:30.877 * Cart now contains <itemCount> number of items
+
+13:15:30.891 * Checkout
+13:15:30.891 * Checkout now
+13:15:31.377 * Show a message "Thank you for your purchase! We will ship it shortly!" "Log out"
+
+13:15:31.405 * Log out
+
+13:15:31.405 * Log out the customer
+13:15:31.785 * Show a message "You have been logged out." "Log in"
+13:15:31.819 * Give an option to Log In
+
+13:15:31.829 ## Cart retains items until order is placed
+13:15:31.830 * Go to active admin store
+
+13:15:31.830 * Go to the store website
+13:15:32.097 * Clear previous login
+13:15:32.099 * Log in with customer name "ScroogeMcduck" and "password"
+13:15:32.099 * Login as name <name> and <password>
+13:15:32.957 * Show the log in status for user <name>
+13:15:32.988 * See items available for purchase.
+13:15:33.006 * Add "Beginning Ruby: From Novice to Professional" and the cart will now contain "1" item(s)
+13:15:33.006 * See items available for purchase.
+13:15:33.017 * Add item <item> to the cart.
+13:15:33.985 * Cart now contains <itemCount> number of items
+
+13:15:34.001 * Log out
+
+13:15:34.001 * Log out the customer
+13:15:34.407 * Show a message "You have been logged out." "Log in"
+13:15:34.431 * Give an option to Log In
+
+13:15:34.444 * Log in with customer name "ScroogeMcduck" and "password"
+13:15:34.444 * Login as name <name> and <password>
+13:15:35.077 * Show the log in status for user <name>
+13:15:35.106 * See items available for purchase.
+13:15:35.118 * Add "The Well-Grounded Rubyist" and the cart will now contain "2" item(s)
+13:15:35.118 * See items available for purchase.
+13:15:35.127 * Add item <item> to the cart.
+13:15:35.805 * Cart now contains <itemCount> number of items
+
+13:15:35.819 * Log out
+13:15:35.819 * Log out the customer
+13:15:36.138 * Show a message "You have been logged out." "Log in"
+13:15:36.164 * Give an option to Log In
+
+13:15:37.177 Plugin [Html Report] with pid [13740] has exited
+13:15:37.278 Specifications:	3 executed	3 passed	0 failed	0 skipped
+13:15:37.278 Scenarios:	5 executed	5 passed	0 failed	0 skipped
+13:15:37.278 
+Total time taken: 35.446s
+13:15:37.278 Updates are available. Run `gauge update -c` for more info.
+13:16:33.733 Plugin python is already installed.
+13:16:33.733 Plugin html-report is already installed.
+13:16:35.196 Checking updates...
+13:16:39.792 # Customer Log out
+13:16:39.793 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |John18|john18.doe@example.com|password|
+13:16:39.793 ## Customer must be able to log out
+13:16:39.794 * Go to active admin store
+
+13:16:39.794 * Go to the store website
+13:16:41.454 * Clear previous login
+13:16:41.455 * Sign up as <name> with email <email> and <password>
+13:16:42.314 * Log out
+13:16:42.314 * Log out the customer
+13:16:47.517 * Show a message "You have been logged out." "Log in"
+13:16:48.257 Failed Step: Show a message "You have been logged out." "Log in"
+13:16:48.257 Error Message: HTTPConnectionPool(host='127.0.0.1', port=47668): Max retries exceeded with url: /session/38bd96ab78ae4bc4fb2403925b439fb2/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a8cd2db38>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:16:48.257 Specification: specs/CustomerLogout.spec
+13:16:48.257 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1196, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1147, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 950, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 893, in send
+    self.connect()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f5a8cd2db38>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/utils/flashMessages.py", line 8, in showAMessage
+    webDriver.find_element_by_link_text(linkText)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 79, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 170, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/poolmanager.py", line 375, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/retry.py", line 573, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=47668): Max retries exceeded with url: /session/38bd96ab78ae4bc4fb2403925b439fb2/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a8cd2db38>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:16:48.258 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |Jane18|jane18.doe@example.com|password|
+13:16:48.259 ## Customer must be able to log out
+13:16:48.259 * Go to active admin store
+
+13:16:48.259 * Go to the store website
+13:16:48.448 Failed Step: Go to the store website
+13:16:48.448 Error Message: HTTPConnectionPool(host='127.0.0.1', port=47668): Max retries exceeded with url: /session/38bd96ab78ae4bc4fb2403925b439fb2/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a8cd41eb8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:16:48.448 Specification: specs/CustomerLogout.spec
+13:16:48.448 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1196, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1147, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 950, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 893, in send
+    self.connect()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f5a8cd41eb8>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/appLauncher.py", line 7, in gotoStoreWebsite
+    Driver.driver.get(URL)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 79, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 170, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/poolmanager.py", line 375, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/retry.py", line 573, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=47668): Max retries exceeded with url: /session/38bd96ab78ae4bc4fb2403925b439fb2/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a8cd41eb8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:16:48.449 # Customer sign-up
+13:16:48.450 ## Customer Sign-up
+13:16:48.450 * Go to active admin store
+
+13:16:48.450 * Go to the store website
+13:16:48.617 Failed Step: Go to the store website
+13:16:48.617 Error Message: HTTPConnectionPool(host='127.0.0.1', port=47668): Max retries exceeded with url: /session/38bd96ab78ae4bc4fb2403925b439fb2/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a8cd41f28>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:16:48.617 Specification: specs/CustomerSignup.spec
+13:16:48.617 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1196, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1147, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 950, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 893, in send
+    self.connect()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f5a8cd41f28>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/appLauncher.py", line 7, in gotoStoreWebsite
+    Driver.driver.get(URL)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 79, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 170, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/poolmanager.py", line 375, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/retry.py", line 573, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=47668): Max retries exceeded with url: /session/38bd96ab78ae4bc4fb2403925b439fb2/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a8cd41f28>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:16:48.618 # Place an Order
+13:16:48.618 ## Buy a book
+13:16:48.618 * Go to active admin store
+
+13:16:48.618 * Go to the store website
+13:16:48.828 Failed Step: Go to the store website
+13:16:48.828 Error Message: HTTPConnectionPool(host='127.0.0.1', port=47668): Max retries exceeded with url: /session/38bd96ab78ae4bc4fb2403925b439fb2/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a8cfd87f0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:16:48.828 Specification: specs/PlaceOrder.spec
+13:16:48.828 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1196, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1147, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 950, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 893, in send
+    self.connect()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f5a8cfd87f0>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/appLauncher.py", line 7, in gotoStoreWebsite
+    Driver.driver.get(URL)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 79, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 170, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/poolmanager.py", line 375, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/retry.py", line 573, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=47668): Max retries exceeded with url: /session/38bd96ab78ae4bc4fb2403925b439fb2/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a8cfd87f0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:16:48.829 ## Cart retains items until order is placed
+13:16:48.830 * Go to active admin store
+
+13:16:48.830 * Go to the store website
+13:16:48.993 Failed Step: Go to the store website
+13:16:48.993 Error Message: HTTPConnectionPool(host='127.0.0.1', port=47668): Max retries exceeded with url: /session/38bd96ab78ae4bc4fb2403925b439fb2/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a8cd2d908>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:16:48.993 Specification: specs/PlaceOrder.spec
+13:16:48.993 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1196, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1147, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 950, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 893, in send
+    self.connect()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f5a8cd2d908>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/appLauncher.py", line 7, in gotoStoreWebsite
+    Driver.driver.get(URL)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 79, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 170, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/poolmanager.py", line 375, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/retry.py", line 573, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=47668): Max retries exceeded with url: /session/38bd96ab78ae4bc4fb2403925b439fb2/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a8cd2d908>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:16:49.196 Error Message: HTTPConnectionPool(host='127.0.0.1', port=47668): Max retries exceeded with url: /session/38bd96ab78ae4bc4fb2403925b439fb2/window (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a8ccc4748>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:16:49.196 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1196, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1147, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 950, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 893, in send
+    self.connect()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f5a8ccc4748>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/utils/driver.py", line 13, in close
+    Driver.driver.close()
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 688, in close
+    self.execute(Command.CLOSE)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 75, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 96, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/poolmanager.py", line 375, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/retry.py", line 573, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=47668): Max retries exceeded with url: /session/38bd96ab78ae4bc4fb2403925b439fb2/window (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a8ccc4748>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:16:49.366 Plugin [Html Report] with pid [16096] has exited
+13:16:49.467 Specifications:	3 executed	0 passed	3 failed	0 skipped
+13:16:49.467 Scenarios:	5 executed	0 passed	5 failed	0 skipped
+13:16:49.467 
+Total time taken: 12.391s
+13:16:49.467 Updates are available. Run `gauge update -c` for more info.
+13:17:53.672 Plugin python is already installed.
+13:17:53.672 Plugin html-report is already installed.
+13:17:54.568 Checking updates...
+13:17:59.645 # Customer Log out
+13:17:59.705 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |John18|john18.doe@example.com|password|
+13:17:59.705 ## Customer must be able to log out
+13:17:59.706 * Go to active admin store
+
+13:17:59.706 * Go to the store website
+13:18:02.464 * Clear previous login
+13:18:02.514 * Sign up as <name> with email <email> and <password>
+13:18:04.275 * Log out
+13:18:04.275 * Log out the customer
+13:18:04.854 * Show a message "You have been logged out." "Log in"
+13:18:04.911 * Give an option to Log In
+
+13:18:04.923 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |Jane18|jane18.doe@example.com|password|
+13:18:04.923 ## Customer must be able to log out
+13:18:04.923 * Go to active admin store
+
+13:18:04.923 * Go to the store website
+13:18:05.301 * Clear previous login
+13:18:05.305 * Sign up as <name> with email <email> and <password>
+13:18:06.947 * Log out
+13:18:06.947 * Log out the customer
+13:18:07.446 * Show a message "You have been logged out." "Log in"
+13:18:07.466 * Give an option to Log In
+
+13:18:07.478 # Customer sign-up
+13:18:07.479 ## Customer Sign-up
+13:18:07.479 * Go to active admin store
+
+13:18:07.479 * Go to the store website
+13:18:07.781 * Clear previous login
+13:18:07.784 * Sign up a new customer with name "Jann18" email "jann18.doe@example.com" and "password"
+13:18:07.784 * Sign up as <name> with email <email> and <password>
+13:18:08.924 * Show a message "Thank you for signing up! You are now logged in." "Log out"
+13:18:08.953 * Check if the user "Jann18" is logged in
+13:18:08.953 * Show the log in status for user <name>
+13:18:08.978 * Give an option to Log Out
+
+13:18:08.979 * See items available for purchase.
+13:18:08.992 * Log out
+13:18:08.992 * Log out the customer
+13:18:09.315 * Show a message "You have been logged out." "Log in"
+13:18:09.336 * Give an option to Log In
+
+13:18:09.347 # Place an Order
+13:18:09.348 ## Buy a book
+13:18:09.349 * Go to active admin store
+
+13:18:09.349 * Go to the store website
+13:18:10.646 * Clear previous login
+13:18:10.649 * Log in with customer name "ScroogeMcduck" and "password"
+13:18:10.649 * Login as name <name> and <password>
+13:18:11.819 * Show the log in status for user <name>
+13:18:11.846 * See items available for purchase.
+13:18:11.856 * Place order for "Beginning Ruby: From Novice to Professional". The cart should now contain "1" items
+13:18:11.856 * See items available for purchase.
+13:18:11.866 * Add <item> and the cart will now contain <itemcount> item(s)
+13:18:11.866 * See items available for purchase.
+13:18:11.875 * Add item <item> to the cart.
+13:18:12.960 * Cart now contains <itemCount> number of items
+
+13:18:12.984 * Checkout
+13:18:12.984 * Checkout now
+13:18:13.427 * Show a message "Thank you for your purchase! We will ship it shortly!" "Log out"
+
+13:18:13.460 * Log out
+
+13:18:13.460 * Log out the customer
+13:18:13.852 * Show a message "You have been logged out." "Log in"
+13:18:13.875 * Give an option to Log In
+
+13:18:13.924 ## Cart retains items until order is placed
+13:18:13.925 * Go to active admin store
+
+13:18:13.925 * Go to the store website
+13:18:14.192 * Clear previous login
+13:18:14.197 * Log in with customer name "ScroogeMcduck" and "password"
+13:18:14.197 * Login as name <name> and <password>
+13:18:14.977 * Show the log in status for user <name>
+13:18:15.001 * See items available for purchase.
+13:18:15.011 * Add "Beginning Ruby: From Novice to Professional" and the cart will now contain "1" item(s)
+13:18:15.011 * See items available for purchase.
+13:18:15.020 * Add item <item> to the cart.
+13:18:15.714 * Cart now contains <itemCount> number of items
+
+13:18:15.728 * Log out
+
+13:18:15.728 * Log out the customer
+13:18:16.074 * Show a message "You have been logged out." "Log in"
+13:18:16.095 * Give an option to Log In
+
+13:18:16.110 * Log in with customer name "ScroogeMcduck" and "password"
+13:18:16.110 * Login as name <name> and <password>
+13:18:16.956 * Show the log in status for user <name>
+13:18:16.984 * See items available for purchase.
+13:18:16.996 * Add "The Well-Grounded Rubyist" and the cart will now contain "2" item(s)
+13:18:16.996 * See items available for purchase.
+13:18:17.006 * Add item <item> to the cart.
+13:18:18.272 * Cart now contains <itemCount> number of items
+
+13:18:18.284 * Log out
+13:18:18.284 * Log out the customer
+13:18:18.675 * Show a message "You have been logged out." "Log in"
+13:18:18.718 * Give an option to Log In
+
+13:18:19.259 Plugin [Html Report] with pid [18609] has exited
+13:18:19.435 Specifications:	3 executed	3 passed	0 failed	0 skipped
+13:18:19.436 Scenarios:	5 executed	5 passed	0 failed	0 skipped
+13:18:19.436 
+Total time taken: 22.649s
+13:18:19.476 Updates are available. Run `gauge update -c` for more info.
+13:28:05.274 Plugin python is already installed.
+13:28:05.302 Plugin html-report is already installed.
+13:28:15.926 Checking updates...
+13:28:36.054 Runner connection error: Timed out connecting to 127.0.0.1:43838
+13:28:36.054 Failed to start gauge API: Timed out connecting to 127.0.0.1:43838
+13:28:56.701 Plugin html-report is already installed.
+13:28:56.828 Plugin python is already installed.
+13:28:59.849 Checking updates...
+13:29:28.607 Runner connection error: Timed out connecting to 127.0.0.1:44025
+13:29:28.608 Failed to start gauge API: Timed out connecting to 127.0.0.1:44025
+13:29:31.562 Plugin python is already installed.
+13:29:31.629 Plugin html-report is already installed.
+13:29:32.550 Checking updates...
+13:31:16.029 Error Message: Message: connection refused
+13:31:16.285 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/utils/driver.py", line 9, in __init__
+    Driver.driver = webdriver.Firefox()
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: connection refused
+
+13:31:16.431 Error Message: 'NoneType' object has no attribute 'close'
+13:31:16.431 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/utils/driver.py", line 13, in close
+    Driver.driver.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+13:31:19.230 Plugin [Html Report] with pid [1277] has exited
+13:31:19.331 Specifications:	0 executed	0 passed	0 failed	0 skipped
+13:31:19.331 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+13:31:19.331 
+Total time taken: 1m21.243s
+13:31:19.331 Updates are available. Run `gauge update -c` for more info.
+13:32:40.475 Plugin python is already installed.
+13:32:40.481 Plugin html-report is already installed.
+13:32:44.134 Checking updates...
+13:33:27.804 # Customer Log out
+13:33:27.870 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |John18|john18.doe@example.com|password|
+13:33:27.870 ## Customer must be able to log out
+13:33:27.871 * Go to active admin store
+
+13:33:27.871 * Go to the store website
+13:33:30.767 * Clear previous login
+13:33:30.768 * Sign up as <name> with email <email> and <password>
+13:33:37.842 * Log out
+13:33:37.842 * Log out the customer
+13:33:38.601 * Show a message "You have been logged out." "Log in"
+13:33:38.739 * Give an option to Log In
+
+13:33:38.761 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |Jane18|jane18.doe@example.com|password|
+13:33:38.762 ## Customer must be able to log out
+13:33:38.762 * Go to active admin store
+
+13:33:38.762 * Go to the store website
+13:33:39.419 * Clear previous login
+13:33:39.421 * Sign up as <name> with email <email> and <password>
+13:33:41.648 * Log out
+13:33:41.648 * Log out the customer
+13:33:42.051 * Show a message "You have been logged out." "Log in"
+13:33:42.108 * Give an option to Log In
+
+13:33:42.199 # Customer sign-up
+13:33:42.200 ## Customer Sign-up
+13:33:42.205 * Go to active admin store
+
+13:33:42.205 * Go to the store website
+13:33:42.559 * Clear previous login
+13:33:42.560 * Sign up a new customer with name "Jann18" email "jann18.doe@example.com" and "password"
+13:33:42.560 * Sign up as <name> with email <email> and <password>
+13:33:44.762 * Show a message "Thank you for signing up! You are now logged in." "Log out"
+13:33:44.821 * Check if the user "Jann18" is logged in
+13:33:44.821 * Show the log in status for user <name>
+13:33:44.886 * Give an option to Log Out
+
+13:33:44.888 * See items available for purchase.
+13:33:44.915 * Log out
+13:33:44.915 * Log out the customer
+13:33:45.355 * Show a message "You have been logged out." "Log in"
+13:33:45.406 * Give an option to Log In
+
+13:33:45.433 # Place an Order
+13:33:45.435 ## Buy a book
+13:33:45.436 * Go to active admin store
+
+13:33:45.436 * Go to the store website
+13:33:45.702 * Clear previous login
+13:33:45.703 * Log in with customer name "ScroogeMcduck" and "password"
+13:33:45.703 * Login as name <name> and <password>
+13:33:46.410 * Show the log in status for user <name>
+13:33:46.443 * See items available for purchase.
+13:33:46.470 * Place order for "Beginning Ruby: From Novice to Professional". The cart should now contain "1" items
+13:33:46.512 * See items available for purchase.
+13:33:46.524 * Add <item> and the cart will now contain <itemcount> item(s)
+13:33:46.524 * See items available for purchase.
+13:33:46.536 * Add item <item> to the cart.
+13:33:48.383 * Cart now contains <itemCount> number of items
+
+13:33:48.411 * Checkout
+13:33:48.411 * Checkout now
+13:33:48.975 * Show a message "Thank you for your purchase! We will ship it shortly!" "Log out"
+
+13:33:49.020 * Log out
+
+13:33:49.021 * Log out the customer
+13:33:49.658 * Show a message "You have been logged out." "Log in"
+13:33:49.719 * Give an option to Log In
+
+13:33:49.775 ## Cart retains items until order is placed
+13:33:49.778 * Go to active admin store
+
+13:33:49.778 * Go to the store website
+13:33:50.147 * Clear previous login
+13:33:50.147 * Log in with customer name "ScroogeMcduck" and "password"
+13:33:50.147 * Login as name <name> and <password>
+13:33:50.730 * Show the log in status for user <name>
+13:33:50.825 * See items available for purchase.
+13:33:50.849 * Add "Beginning Ruby: From Novice to Professional" and the cart will now contain "1" item(s)
+13:33:50.849 * See items available for purchase.
+13:33:50.864 * Add item <item> to the cart.
+13:33:51.700 * Cart now contains <itemCount> number of items
+
+13:33:51.706 * Log out
+
+13:33:51.706 * Log out the customer
+13:33:51.992 * Show a message "You have been logged out." "Log in"
+13:33:52.038 * Give an option to Log In
+
+13:33:52.061 * Log in with customer name "ScroogeMcduck" and "password"
+13:33:52.061 * Login as name <name> and <password>
+13:33:52.558 * Show the log in status for user <name>
+13:33:52.608 * See items available for purchase.
+13:33:52.624 * Add "The Well-Grounded Rubyist" and the cart will now contain "2" item(s)
+13:33:52.624 * See items available for purchase.
+13:33:52.650 * Add item <item> to the cart.
+13:33:53.344 * Cart now contains <itemCount> number of items
+
+13:33:53.352 * Log out
+13:33:53.352 * Log out the customer
+13:33:53.659 * Show a message "You have been logged out." "Log in"
+13:33:53.705 * Give an option to Log In
+
+13:33:56.897 Plugin [Html Report] with pid [5147] has exited
+13:33:57.002 Specifications:	3 executed	3 passed	0 failed	0 skipped
+13:33:57.002 Scenarios:	5 executed	5 passed	0 failed	0 skipped
+13:33:57.002 
+Total time taken: 1m2.512s
+13:33:57.003 Updates are available. Run `gauge update -c` for more info.
+13:35:43.935 Plugin python is already installed.
+13:35:43.941 Plugin html-report is already installed.
+13:35:48.860 Checking updates...
+13:36:31.098 # Customer Log out
+13:36:31.219 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |John18|john18.doe@example.com|password|
+13:36:31.219 ## Customer must be able to log out
+13:36:31.219 * Go to active admin store
+
+13:36:31.219 * Go to the store website
+13:36:33.545 * Clear previous login
+13:36:33.627 * Sign up as <name> with email <email> and <password>
+13:36:38.849 * Log out
+13:36:38.849 * Log out the customer
+13:36:39.512 * Show a message "You have been logged out." "Log in"
+13:36:39.603 * Give an option to Log In
+
+13:36:39.613 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |Jane18|jane18.doe@example.com|password|
+13:36:39.614 ## Customer must be able to log out
+13:36:39.615 * Go to active admin store
+
+13:36:39.615 * Go to the store website
+13:36:40.135 * Clear previous login
+13:36:40.240 * Sign up as <name> with email <email> and <password>
+13:36:41.833 * Log out
+13:36:41.834 * Log out the customer
+13:36:42.195 * Show a message "You have been logged out." "Log in"
+13:36:42.217 * Give an option to Log In
+
+13:36:42.228 # Customer sign-up
+13:36:42.228 ## Customer Sign-up
+13:36:42.229 * Go to active admin store
+
+13:36:42.471 * Go to the store website
+13:36:42.787 * Clear previous login
+13:36:42.787 * Sign up a new customer with name "Jann18" email "jann18.doe@example.com" and "password"
+13:36:42.787 * Sign up as <name> with email <email> and <password>
+13:36:44.174 * Show a message "Thank you for signing up! You are now logged in." "Log out"
+13:36:44.201 * Check if the user "Jann18" is logged in
+13:36:44.201 * Show the log in status for user <name>
+13:36:44.237 * Give an option to Log Out
+
+13:36:44.238 * See items available for purchase.
+13:36:44.251 * Log out
+13:36:44.251 * Log out the customer
+13:36:44.642 * Show a message "You have been logged out." "Log in"
+13:36:44.665 * Give an option to Log In
+
+13:36:44.676 # Place an Order
+13:36:44.677 ## Buy a book
+13:36:44.677 * Go to active admin store
+
+13:36:44.677 * Go to the store website
+13:36:44.956 * Clear previous login
+13:36:44.957 * Log in with customer name "ScroogeMcduck" and "password"
+13:36:44.957 * Login as name <name> and <password>
+13:36:46.191 * Show the log in status for user <name>
+13:36:46.218 * See items available for purchase.
+13:36:46.228 * Place order for "Beginning Ruby: From Novice to Professional". The cart should now contain "1" items
+13:36:46.228 * See items available for purchase.
+13:36:46.239 * Add <item> and the cart will now contain <itemcount> item(s)
+13:36:46.239 * See items available for purchase.
+13:36:46.253 * Add item <item> to the cart.
+13:36:48.179 * Cart now contains <itemCount> number of items
+
+13:36:48.202 * Checkout
+13:36:48.202 * Checkout now
+13:36:48.719 * Show a message "Thank you for your purchase! We will ship it shortly!" "Log out"
+
+13:36:48.746 * Log out
+
+13:36:48.746 * Log out the customer
+13:36:49.071 * Show a message "You have been logged out." "Log in"
+13:36:49.099 * Give an option to Log In
+
+13:36:49.108 ## Cart retains items until order is placed
+13:36:49.109 * Go to active admin store
+
+13:36:49.109 * Go to the store website
+13:36:49.384 * Clear previous login
+13:36:49.386 * Log in with customer name "ScroogeMcduck" and "password"
+13:36:49.386 * Login as name <name> and <password>
+13:36:50.034 * Show the log in status for user <name>
+13:36:50.055 * See items available for purchase.
+13:36:50.065 * Add "Beginning Ruby: From Novice to Professional" and the cart will now contain "1" item(s)
+13:36:50.065 * See items available for purchase.
+13:36:50.074 * Add item <item> to the cart.
+13:36:51.799 * Cart now contains <itemCount> number of items
+
+13:36:51.818 * Log out
+
+13:36:51.818 * Log out the customer
+13:36:52.212 * Show a message "You have been logged out." "Log in"
+13:36:52.233 * Give an option to Log In
+
+13:36:52.251 * Log in with customer name "ScroogeMcduck" and "password"
+13:36:52.251 * Login as name <name> and <password>
+13:36:52.859 * Show the log in status for user <name>
+13:36:52.882 * See items available for purchase.
+13:36:52.893 * Add "The Well-Grounded Rubyist" and the cart will now contain "2" item(s)
+13:36:52.893 * See items available for purchase.
+13:36:52.901 * Add item <item> to the cart.
+13:36:53.556 * Cart now contains <itemCount> number of items
+
+13:36:53.568 * Log out
+13:36:53.568 * Log out the customer
+13:36:53.869 * Show a message "You have been logged out." "Log in"
+13:36:53.900 * Give an option to Log In
+
+13:36:55.174 Plugin [Html Report] with pid [9535] has exited
+13:36:55.275 Specifications:	3 executed	3 passed	0 failed	0 skipped
+13:36:55.275 Scenarios:	5 executed	5 passed	0 failed	0 skipped
+13:36:55.275 
+Total time taken: 58.95s
+13:36:55.275 Updates are available. Run `gauge update -c` for more info.
+13:37:05.044 Plugin python is already installed.
+13:37:05.116 Plugin html-report is already installed.
+13:37:13.806 Checking updates...
+13:37:29.711 Plugin python is already installed.
+13:37:29.711 Plugin html-report is already installed.
+13:37:30.585 Checking updates...
+13:38:02.689 # Customer Log out
+13:38:02.690 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |John18|john18.doe@example.com|password|
+13:38:02.690 ## Customer must be able to log out
+13:38:02.690 * Go to active admin store
+
+13:38:02.690 * Go to the store website
+13:38:05.089 * Clear previous login
+13:38:05.090 * Sign up as <name> with email <email> and <password>
+13:38:06.222 * Log out
+13:38:06.222 * Log out the customer
+13:38:11.450 * Show a message "You have been logged out." "Log in"
+13:38:12.966 Failed Step: Show a message "You have been logged out." "Log in"
+13:38:12.966 Error Message: HTTPConnectionPool(host='127.0.0.1', port=35519): Max retries exceeded with url: /session/30637a4e7e0f21df50b8744c4895a410/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f79e74d3390>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:38:12.966 Specification: specs/CustomerLogout.spec
+13:38:12.966 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1196, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1147, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 950, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 893, in send
+    self.connect()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f79e74d3390>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/utils/flashMessages.py", line 8, in showAMessage
+    webDriver.find_element_by_link_text(linkText)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 79, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 170, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/poolmanager.py", line 375, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/retry.py", line 573, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=35519): Max retries exceeded with url: /session/30637a4e7e0f21df50b8744c4895a410/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f79e74d3390>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:38:12.967 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |Jane18|jane18.doe@example.com|password|
+13:38:12.967 ## Customer must be able to log out
+13:38:12.967 * Go to active admin store
+
+13:38:12.967 * Go to the store website
+13:38:13.156 Failed Step: Go to the store website
+13:38:13.156 Error Message: HTTPConnectionPool(host='127.0.0.1', port=35519): Max retries exceeded with url: /session/30637a4e7e0f21df50b8744c4895a410/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f79e748f748>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:38:13.156 Specification: specs/CustomerLogout.spec
+13:38:13.156 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1196, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1147, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 950, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 893, in send
+    self.connect()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f79e748f748>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/appLauncher.py", line 7, in gotoStoreWebsite
+    Driver.driver.get(URL)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 79, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 170, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/poolmanager.py", line 375, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/retry.py", line 573, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=35519): Max retries exceeded with url: /session/30637a4e7e0f21df50b8744c4895a410/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f79e748f748>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:38:13.156 # Customer sign-up
+13:38:13.157 ## Customer Sign-up
+13:38:13.158 * Go to active admin store
+
+13:38:13.158 * Go to the store website
+13:38:13.296 Failed Step: Go to the store website
+13:38:13.296 Error Message: HTTPConnectionPool(host='127.0.0.1', port=35519): Max retries exceeded with url: /session/30637a4e7e0f21df50b8744c4895a410/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f79e74d3160>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:38:13.296 Specification: specs/CustomerSignup.spec
+13:38:13.296 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1196, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1147, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 950, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 893, in send
+    self.connect()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f79e74d3160>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/appLauncher.py", line 7, in gotoStoreWebsite
+    Driver.driver.get(URL)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 79, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 170, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/poolmanager.py", line 375, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/retry.py", line 573, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=35519): Max retries exceeded with url: /session/30637a4e7e0f21df50b8744c4895a410/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f79e74d3160>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:38:13.297 # Place an Order
+13:38:13.298 ## Buy a book
+13:38:13.299 * Go to active admin store
+
+13:38:13.299 * Go to the store website
+13:38:13.474 Failed Step: Go to the store website
+13:38:13.474 Error Message: HTTPConnectionPool(host='127.0.0.1', port=35519): Max retries exceeded with url: /session/30637a4e7e0f21df50b8744c4895a410/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f79e748f978>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:38:13.474 Specification: specs/PlaceOrder.spec
+13:38:13.474 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1196, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1147, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 950, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 893, in send
+    self.connect()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f79e748f978>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/appLauncher.py", line 7, in gotoStoreWebsite
+    Driver.driver.get(URL)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 79, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 170, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/poolmanager.py", line 375, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/retry.py", line 573, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=35519): Max retries exceeded with url: /session/30637a4e7e0f21df50b8744c4895a410/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f79e748f978>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:38:13.474 ## Cart retains items until order is placed
+13:38:13.475 * Go to active admin store
+
+13:38:13.475 * Go to the store website
+13:38:13.610 Failed Step: Go to the store website
+13:38:13.610 Error Message: HTTPConnectionPool(host='127.0.0.1', port=35519): Max retries exceeded with url: /session/30637a4e7e0f21df50b8744c4895a410/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f79e748fe80>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:38:13.610 Specification: specs/PlaceOrder.spec
+13:38:13.610 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1196, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1147, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 950, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 893, in send
+    self.connect()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f79e748fe80>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/appLauncher.py", line 7, in gotoStoreWebsite
+    Driver.driver.get(URL)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 79, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 170, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/poolmanager.py", line 375, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/retry.py", line 573, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=35519): Max retries exceeded with url: /session/30637a4e7e0f21df50b8744c4895a410/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f79e748fe80>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:38:13.745 Error Message: HTTPConnectionPool(host='127.0.0.1', port=35519): Max retries exceeded with url: /session/30637a4e7e0f21df50b8744c4895a410/window (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f79e7472518>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:38:13.745 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1196, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1147, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 950, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 893, in send
+    self.connect()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f79e7472518>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python3.5/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/utils/driver.py", line 13, in close
+    Driver.driver.close()
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 688, in close
+    self.execute(Command.CLOSE)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 75, in request
+    method, url, fields=fields, headers=headers, **urlopen_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/request.py", line 96, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/poolmanager.py", line 375, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 796, in urlopen
+    **response_kw
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/nirmal/.local/lib/python3.5/site-packages/urllib3/util/retry.py", line 573, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=35519): Max retries exceeded with url: /session/30637a4e7e0f21df50b8744c4895a410/window (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f79e7472518>: Failed to establish a new connection: [Errno 111] Connection refused',))
+13:38:13.856 Plugin [Html Report] with pid [12233] has exited
+13:38:13.957 Specifications:	3 executed	0 passed	3 failed	0 skipped
+13:38:13.957 Scenarios:	5 executed	0 passed	5 failed	0 skipped
+13:38:13.957 
+Total time taken: 30.291s
+13:38:13.957 Updates are available. Run `gauge update -c` for more info.
+13:39:23.549 Plugin python is already installed.
+13:39:23.549 Plugin html-report is already installed.
+13:39:24.386 Checking updates...
+13:39:32.268 # Customer Log out
+13:39:32.268 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |John18|john18.doe@example.com|password|
+13:39:32.268 ## Customer must be able to log out
+13:39:32.269 * Go to active admin store
+
+13:39:32.269 * Go to the store website
+13:39:35.099 * Clear previous login
+13:39:35.103 * Sign up as <name> with email <email> and <password>
+13:39:39.371 * Log out
+13:39:39.372 * Log out the customer
+13:39:39.968 * Show a message "You have been logged out." "Log in"
+13:39:40.025 * Give an option to Log In
+
+13:39:40.042 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |Jane18|jane18.doe@example.com|password|
+13:39:40.042 ## Customer must be able to log out
+13:39:40.042 * Go to active admin store
+
+13:39:40.042 * Go to the store website
+13:39:40.428 * Clear previous login
+13:39:40.429 * Sign up as <name> with email <email> and <password>
+13:39:42.191 * Log out
+13:39:42.191 * Log out the customer
+13:39:42.692 * Show a message "You have been logged out." "Log in"
+13:39:42.734 * Give an option to Log In
+
+13:39:42.754 # Customer sign-up
+13:39:42.756 ## Customer Sign-up
+13:39:42.757 * Go to active admin store
+
+13:39:42.757 * Go to the store website
+13:39:43.188 * Clear previous login
+13:39:43.190 * Sign up a new customer with name "Jann18" email "jann18.doe@example.com" and "password"
+13:39:43.190 * Sign up as <name> with email <email> and <password>
+13:39:44.573 * Show a message "Thank you for signing up! You are now logged in." "Log out"
+13:39:44.629 * Check if the user "Jann18" is logged in
+13:39:44.629 * Show the log in status for user <name>
+13:39:44.683 * Give an option to Log Out
+
+13:39:44.684 * See items available for purchase.
+13:39:44.697 * Log out
+13:39:44.697 * Log out the customer
+13:39:45.008 * Show a message "You have been logged out." "Log in"
+13:39:45.057 * Give an option to Log In
+
+13:39:45.099 # Place an Order
+13:39:45.100 ## Buy a book
+13:39:45.100 * Go to active admin store
+
+13:39:45.100 * Go to the store website
+13:39:45.410 * Clear previous login
+13:39:45.412 * Log in with customer name "ScroogeMcduck" and "password"
+13:39:45.413 * Login as name <name> and <password>
+13:39:46.041 * Show the log in status for user <name>
+13:39:46.124 * See items available for purchase.
+13:39:46.141 * Place order for "Beginning Ruby: From Novice to Professional". The cart should now contain "1" items
+13:39:46.141 * See items available for purchase.
+13:39:46.159 * Add <item> and the cart will now contain <itemcount> item(s)
+13:39:46.159 * See items available for purchase.
+13:39:46.186 * Add item <item> to the cart.
+13:39:48.890 * Cart now contains <itemCount> number of items
+
+13:39:48.907 * Checkout
+13:39:48.907 * Checkout now
+13:39:49.426 * Show a message "Thank you for your purchase! We will ship it shortly!" "Log out"
+
+13:39:49.534 * Log out
+
+13:39:49.535 * Log out the customer
+13:39:50.194 * Show a message "You have been logged out." "Log in"
+13:39:50.257 * Give an option to Log In
+
+13:39:50.271 ## Cart retains items until order is placed
+13:39:50.272 * Go to active admin store
+
+13:39:50.272 * Go to the store website
+13:39:50.645 * Clear previous login
+13:39:50.647 * Log in with customer name "ScroogeMcduck" and "password"
+13:39:50.647 * Login as name <name> and <password>
+13:39:51.240 * Show the log in status for user <name>
+13:39:51.296 * See items available for purchase.
+13:39:51.325 * Add "Beginning Ruby: From Novice to Professional" and the cart will now contain "1" item(s)
+13:39:51.325 * See items available for purchase.
+13:39:51.336 * Add item <item> to the cart.
+13:39:52.639 * Cart now contains <itemCount> number of items
+
+13:39:52.667 * Log out
+
+13:39:52.667 * Log out the customer
+13:39:53.033 * Show a message "You have been logged out." "Log in"
+13:39:53.080 * Give an option to Log In
+
+13:39:53.108 * Log in with customer name "ScroogeMcduck" and "password"
+13:39:53.108 * Login as name <name> and <password>
+13:39:53.660 * Show the log in status for user <name>
+13:39:53.727 * See items available for purchase.
+13:39:53.753 * Add "The Well-Grounded Rubyist" and the cart will now contain "2" item(s)
+13:39:53.753 * See items available for purchase.
+13:39:53.765 * Add item <item> to the cart.
+13:39:54.711 * Cart now contains <itemCount> number of items
+
+13:39:54.718 * Log out
+13:39:54.718 * Log out the customer
+13:39:54.976 * Show a message "You have been logged out." "Log in"
+13:39:55.041 * Give an option to Log In
+
+13:39:56.971 Plugin [Html Report] with pid [15025] has exited
+13:39:57.072 Specifications:	3 executed	3 passed	0 failed	0 skipped
+13:39:57.072 Scenarios:	5 executed	5 passed	0 failed	0 skipped
+13:39:57.072 
+Total time taken: 31.455s
+13:39:57.072 Updates are available. Run `gauge update -c` for more info.
+15:17:11.169 Plugin python is already installed.
+15:17:11.329 Plugin html-report is already installed.
+15:17:18.798 Checking updates...
+15:17:42.115 Runner connection error: Timed out connecting to 127.0.0.1:33391
+15:17:42.116 Failed to start gauge API: Timed out connecting to 127.0.0.1:33391
+15:17:44.540 Plugin html-report is already installed.
+15:17:44.540 Plugin python is already installed.
+15:17:45.401 Checking updates...
+15:18:19.178 # Customer Log out
+15:18:19.376 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |John18|john18.doe@example.com|password|
+15:18:19.376 ## Customer must be able to log out
+15:18:19.376 * Go to active admin store
+
+15:18:19.376 * Go to the store website
+15:18:21.840 * Clear previous login
+15:18:21.844 * Sign up as <name> with email <email> and <password>
+15:18:24.533 * Log out
+15:18:24.533 * Log out the customer
+15:18:25.100 * Show a message "You have been logged out." "Log in"
+15:18:25.148 * Give an option to Log In
+
+15:18:25.158 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |Jane18|jane18.doe@example.com|password|
+15:18:25.158 ## Customer must be able to log out
+15:18:25.159 * Go to active admin store
+
+15:18:25.159 * Go to the store website
+15:18:25.574 * Clear previous login
+15:18:25.575 * Sign up as <name> with email <email> and <password>
+15:18:26.898 * Log out
+15:18:26.898 * Log out the customer
+15:18:27.476 * Show a message "You have been logged out." "Log in"
+15:18:27.498 * Give an option to Log In
+
+15:18:27.518 # Customer sign-up
+15:18:27.519 ## Customer Sign-up
+15:18:27.519 * Go to active admin store
+
+15:18:27.519 * Go to the store website
+15:18:27.834 * Clear previous login
+15:18:27.836 * Sign up a new customer with name "Jann18" email "jann18.doe@example.com" and "password"
+15:18:27.836 * Sign up as <name> with email <email> and <password>
+15:18:29.043 * Show a message "Thank you for signing up! You are now logged in." "Log out"
+15:18:29.074 * Check if the user "Jann18" is logged in
+15:18:29.074 * Show the log in status for user <name>
+15:18:29.103 * Give an option to Log Out
+
+15:18:29.104 * See items available for purchase.
+15:18:29.119 * Log out
+15:18:29.119 * Log out the customer
+15:18:29.627 * Show a message "You have been logged out." "Log in"
+15:18:29.650 * Give an option to Log In
+
+15:18:29.662 # Place an Order
+15:18:29.663 ## Buy a book
+15:18:29.663 * Go to active admin store
+
+15:18:29.663 * Go to the store website
+15:18:29.936 * Clear previous login
+15:18:29.937 * Log in with customer name "ScroogeMcduck" and "password"
+15:18:29.937 * Login as name <name> and <password>
+15:18:31.047 * Show the log in status for user <name>
+15:18:31.070 * See items available for purchase.
+15:18:31.080 * Place order for "Beginning Ruby: From Novice to Professional". The cart should now contain "1" items
+15:18:31.080 * See items available for purchase.
+15:18:31.088 * Add <item> and the cart will now contain <itemcount> item(s)
+15:18:31.088 * See items available for purchase.
+15:18:31.096 * Add item <item> to the cart.
+15:18:33.405 * Cart now contains <itemCount> number of items
+
+15:18:33.426 * Checkout
+15:18:33.426 * Checkout now
+15:18:34.496 * Show a message "Thank you for your purchase! We will ship it shortly!" "Log out"
+
+15:18:34.521 * Log out
+
+15:18:34.521 * Log out the customer
+15:18:34.887 * Show a message "You have been logged out." "Log in"
+15:18:34.908 * Give an option to Log In
+
+15:18:34.919 ## Cart retains items until order is placed
+15:18:34.920 * Go to active admin store
+
+15:18:34.920 * Go to the store website
+15:18:35.162 * Clear previous login
+15:18:35.164 * Log in with customer name "ScroogeMcduck" and "password"
+15:18:35.164 * Login as name <name> and <password>
+15:18:35.918 * Show the log in status for user <name>
+15:18:35.952 * See items available for purchase.
+15:18:35.961 * Add "Beginning Ruby: From Novice to Professional" and the cart will now contain "1" item(s)
+15:18:35.961 * See items available for purchase.
+15:18:35.970 * Add item <item> to the cart.
+15:18:37.140 * Cart now contains <itemCount> number of items
+
+15:18:37.153 * Log out
+
+15:18:37.153 * Log out the customer
+15:18:37.632 * Show a message "You have been logged out." "Log in"
+15:18:37.654 * Give an option to Log In
+
+15:18:37.664 * Log in with customer name "ScroogeMcduck" and "password"
+15:18:37.664 * Login as name <name> and <password>
+15:18:38.362 * Show the log in status for user <name>
+15:18:38.389 * See items available for purchase.
+15:18:38.400 * Add "The Well-Grounded Rubyist" and the cart will now contain "2" item(s)
+15:18:38.400 * See items available for purchase.
+15:18:38.411 * Add item <item> to the cart.
+15:18:39.195 * Cart now contains <itemCount> number of items
+
+15:18:39.210 * Log out
+15:18:39.210 * Log out the customer
+15:18:39.584 * Show a message "You have been logged out." "Log in"
+15:18:39.622 * Give an option to Log In
+
+15:18:40.885 Plugin [Html Report] with pid [14880] has exited
+15:18:41.049 Specifications:	3 executed	3 passed	0 failed	0 skipped
+15:18:41.049 Scenarios:	5 executed	5 passed	0 failed	0 skipped
+15:18:41.049 
+Total time taken: 39.344s
+15:18:41.049 Updates are available. Run `gauge update -c` for more info.
+15:19:04.471 Plugin python is already installed.
+15:19:04.471 Plugin html-report is already installed.
+15:19:05.457 Checking updates...
+15:19:20.314 # Customer Log out
+15:19:20.315 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |John18|john18.doe@example.com|password|
+15:19:20.315 ## Customer must be able to log out
+15:19:20.317 * Go to active admin store
+
+15:19:20.317 * Go to the store website
+15:19:21.261 * Clear previous login
+15:19:21.263 * Sign up as <name> with email <email> and <password>
+15:19:21.607 Failed Step: Sign up as <name> with email <email> and <password>
+15:19:21.607 Error Message: Message: no such element: Unable to locate element: {"method":"link text","selector":"Sign up"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-198-generic x86_64)
+15:19:21.607 Specification: specs/CustomerLogout.spec:13
+15:19:21.607 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/signUp.py", line 8, in signupAs
+    webDriver.find_element_by_link_text("Sign up").click()
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Sign up"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-198-generic x86_64)
+
+15:19:21.607 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |Jane18|jane18.doe@example.com|password|
+15:19:21.607 ## Customer must be able to log out
+15:19:21.608 * Go to active admin store
+
+15:19:21.608 * Go to the store website
+15:19:21.677 * Clear previous login
+15:19:21.677 * Sign up as <name> with email <email> and <password>
+15:19:21.859 Failed Step: Sign up as <name> with email <email> and <password>
+15:19:21.859 Error Message: Message: no such element: Unable to locate element: {"method":"link text","selector":"Sign up"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-198-generic x86_64)
+15:19:21.859 Specification: specs/CustomerLogout.spec:13
+15:19:21.859 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/signUp.py", line 8, in signupAs
+    webDriver.find_element_by_link_text("Sign up").click()
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Sign up"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-198-generic x86_64)
+
+15:19:21.859 # Customer sign-up
+15:19:21.860 ## Customer Sign-up
+15:19:21.860 * Go to active admin store
+
+15:19:21.860 * Go to the store website
+15:19:21.924 * Clear previous login
+15:19:21.926 * Sign up a new customer with name "Jann18" email "jann18.doe@example.com" and "password"
+15:19:21.926 * Sign up as <name> with email <email> and <password>
+15:19:22.114 Failed Step: Sign up as <name> with email <email> and <password>
+15:19:22.114 Error Message: Message: no such element: Unable to locate element: {"method":"link text","selector":"Sign up"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-198-generic x86_64)
+15:19:22.114 Specification: specs/CustomerSignup.spec
+15:19:22.114 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/signUp.py", line 8, in signupAs
+    webDriver.find_element_by_link_text("Sign up").click()
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Sign up"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-198-generic x86_64)
+
+15:19:22.116 # Place an Order
+15:19:22.116 ## Buy a book
+15:19:22.117 * Go to active admin store
+
+15:19:22.117 * Go to the store website
+15:19:22.198 * Clear previous login
+15:19:22.202 * Log in with customer name "ScroogeMcduck" and "password"
+15:19:22.202 * Login as name <name> and <password>
+15:19:22.382 Failed Step: Login as name <name> and <password>
+15:19:22.382 Error Message: Message: no such element: Unable to locate element: {"method":"link text","selector":"Log in"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-198-generic x86_64)
+15:19:22.382 Specification: specs/PlaceOrder.spec
+15:19:22.382 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/logIn.py", line 18, in loginAsNameWithPassword
+    driver.find_element_by_link_text("Log in").click()
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Log in"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-198-generic x86_64)
+
+15:19:22.384 ## Cart retains items until order is placed
+15:19:22.384 * Go to active admin store
+
+15:19:22.384 * Go to the store website
+15:19:22.459 * Clear previous login
+15:19:22.459 * Log in with customer name "ScroogeMcduck" and "password"
+15:19:22.459 * Login as name <name> and <password>
+15:19:22.640 Failed Step: Login as name <name> and <password>
+15:19:22.640 Error Message: Message: no such element: Unable to locate element: {"method":"link text","selector":"Log in"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-198-generic x86_64)
+15:19:22.640 Specification: specs/PlaceOrder.spec
+15:19:22.640 Stacktrace: 
+Traceback (most recent call last):
+  File "/home/nirmal/.local/lib/python2.7/site-packages/getgauge/executor.py", line 31, in execute_method
+    func(*params)
+  File "/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/logIn.py", line 18, in loginAsNameWithPassword
+    driver.find_element_by_link_text("Log in").click()
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/nirmal/.local/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Log in"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-198-generic x86_64)
+
+15:19:22.839 Plugin [Html Report] with pid [16717] has exited
+15:19:22.939 Specifications:	3 executed	0 passed	3 failed	0 skipped
+15:19:22.939 Scenarios:	5 executed	0 passed	5 failed	0 skipped
+15:19:22.939 
+Total time taken: 9.092s
+15:19:22.940 Updates are available. Run `gauge update -c` for more info.
+15:20:10.553 Plugin python is already installed.
+15:20:10.554 Plugin html-report is already installed.
+15:20:11.374 Checking updates...
+15:20:15.059 # Customer Log out
+15:20:15.060 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |John18|john18.doe@example.com|password|
+15:20:15.061 ## Customer must be able to log out
+15:20:15.061 * Go to active admin store
+
+15:20:15.062 * Go to the store website
+15:20:17.681 * Clear previous login
+15:20:17.682 * Sign up as <name> with email <email> and <password>
+15:20:20.172 * Log out
+15:20:20.172 * Log out the customer
+15:20:20.845 * Show a message "You have been logged out." "Log in"
+15:20:20.944 * Give an option to Log In
+
+15:20:20.954 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |Jane18|jane18.doe@example.com|password|
+15:20:20.954 ## Customer must be able to log out
+15:20:20.955 * Go to active admin store
+
+15:20:20.955 * Go to the store website
+15:20:21.390 * Clear previous login
+15:20:21.394 * Sign up as <name> with email <email> and <password>
+15:20:23.217 * Log out
+15:20:23.217 * Log out the customer
+15:20:23.855 * Show a message "You have been logged out." "Log in"
+15:20:23.884 * Give an option to Log In
+
+15:20:23.917 # Customer sign-up
+15:20:23.936 ## Customer Sign-up
+15:20:23.937 * Go to active admin store
+
+15:20:23.937 * Go to the store website
+15:20:24.455 * Clear previous login
+15:20:24.456 * Sign up a new customer with name "Jann18" email "jann18.doe@example.com" and "password"
+15:20:24.456 * Sign up as <name> with email <email> and <password>
+15:20:25.862 * Show a message "Thank you for signing up! You are now logged in." "Log out"
+15:20:25.893 * Check if the user "Jann18" is logged in
+15:20:25.893 * Show the log in status for user <name>
+15:20:25.918 * Give an option to Log Out
+
+15:20:25.920 * See items available for purchase.
+15:20:25.933 * Log out
+15:20:25.933 * Log out the customer
+15:20:26.390 * Show a message "You have been logged out." "Log in"
+15:20:26.409 * Give an option to Log In
+
+15:20:27.322 # Place an Order
+15:20:27.584 ## Buy a book
+15:20:27.584 * Go to active admin store
+
+15:20:27.584 * Go to the store website
+15:20:27.920 * Clear previous login
+15:20:27.920 * Log in with customer name "ScroogeMcduck" and "password"
+15:20:27.920 * Login as name <name> and <password>
+15:20:29.365 * Show the log in status for user <name>
+15:20:29.395 * See items available for purchase.
+15:20:29.405 * Place order for "Beginning Ruby: From Novice to Professional". The cart should now contain "1" items
+15:20:29.405 * See items available for purchase.
+15:20:29.414 * Add <item> and the cart will now contain <itemcount> item(s)
+15:20:29.414 * See items available for purchase.
+15:20:29.425 * Add item <item> to the cart.
+15:20:31.875 * Cart now contains <itemCount> number of items
+
+15:20:31.903 * Checkout
+15:20:31.903 * Checkout now
+15:20:32.598 * Show a message "Thank you for your purchase! We will ship it shortly!" "Log out"
+
+15:20:32.629 * Log out
+
+15:20:32.629 * Log out the customer
+15:20:33.026 * Show a message "You have been logged out." "Log in"
+15:20:33.046 * Give an option to Log In
+
+15:20:33.057 ## Cart retains items until order is placed
+15:20:33.057 * Go to active admin store
+
+15:20:33.057 * Go to the store website
+15:20:33.278 * Clear previous login
+15:20:33.280 * Log in with customer name "ScroogeMcduck" and "password"
+15:20:33.280 * Login as name <name> and <password>
+15:20:33.951 * Show the log in status for user <name>
+15:20:33.972 * See items available for purchase.
+15:20:33.982 * Add "Beginning Ruby: From Novice to Professional" and the cart will now contain "1" item(s)
+15:20:33.982 * See items available for purchase.
+15:20:33.991 * Add item <item> to the cart.
+15:20:34.730 * Cart now contains <itemCount> number of items
+
+15:20:34.743 * Log out
+
+15:20:34.743 * Log out the customer
+15:20:35.074 * Show a message "You have been logged out." "Log in"
+15:20:35.094 * Give an option to Log In
+
+15:20:35.104 * Log in with customer name "ScroogeMcduck" and "password"
+15:20:35.104 * Login as name <name> and <password>
+15:20:35.743 * Show the log in status for user <name>
+15:20:35.768 * See items available for purchase.
+15:20:35.777 * Add "The Well-Grounded Rubyist" and the cart will now contain "2" item(s)
+15:20:35.777 * See items available for purchase.
+15:20:35.787 * Add item <item> to the cart.
+15:20:36.356 * Cart now contains <itemCount> number of items
+
+15:20:36.369 * Log out
+15:20:36.369 * Log out the customer
+15:20:36.641 * Show a message "You have been logged out." "Log in"
+15:20:36.670 * Give an option to Log In
+
+15:20:38.892 Plugin [Html Report] with pid [18810] has exited
+15:20:39.036 Specifications:	3 executed	3 passed	0 failed	0 skipped
+15:20:39.036 Scenarios:	5 executed	5 passed	0 failed	0 skipped
+15:20:39.036 
+Total time taken: 24.954s
+15:20:39.036 Updates are available. Run `gauge update -c` for more info.

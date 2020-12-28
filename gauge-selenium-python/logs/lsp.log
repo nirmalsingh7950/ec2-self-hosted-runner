@@ -1,0 +1,50 @@
+12:36:04.989 Watching directory: /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs
+12:36:04.989 Found 4 files
+12:36:04.989 Watching directory: /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts
+12:36:04.989 Found 4 files
+12:36:05.005 Initializing concepts cache with 8 concepts
+12:36:05.005 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/GoToStoreWebsite.cpt
+12:36:05.005 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/PlaceOrder.cpt
+12:36:05.005 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/PlaceOrder.cpt
+12:36:05.005 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/PlaceOrder.cpt
+12:36:05.005 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/Authentication.cpt
+12:36:05.005 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/Authentication.cpt
+12:36:05.005 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/Authentication.cpt
+12:36:05.005 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/CustomerSignup.cpt
+12:36:05.040 Initializing specs cache with 3 specs
+12:36:05.040 Adding specs from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/CustomerLogout.spec
+12:36:05.040 Adding specs from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/CustomerSignup.spec
+12:36:05.040 Adding specs from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/PlaceOrder.spec
+12:36:05.040 Initializing steps cache with 7 steps
+12:36:05.056 Starting language runner
+12:36:08.186 LangServer: reading on stdin, writing on stdout
+12:36:08.195 notif #0: initialized: rpc error: code = Internal desc = stream terminated by RST_STREAM with error code: INTERNAL_ERROR
+21. More details about Python 2 support in pip can be found at https://pip.pypa.io/en/latest/development/release-process/#python-2-support pip 21.0 will remove support for this functionality.
+12:36:08.157 Python: 2.7.12
+12:36:08.186 Listening on port:40963
+12:36:11.365 Initializing concepts cache with 8 concepts
+12:36:11.365 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/Authentication.cpt
+12:36:11.365 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/Authentication.cpt
+12:36:11.365 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/CustomerSignup.cpt
+12:36:11.365 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/GoToStoreWebsite.cpt
+12:36:11.365 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/PlaceOrder.cpt
+12:36:11.365 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/PlaceOrder.cpt
+12:36:11.365 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/PlaceOrder.cpt
+12:36:11.365 Adding concepts from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts/Authentication.cpt
+12:36:11.366 Watching directory: /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs
+12:36:11.366 Found 4 files
+12:36:11.366 Watching directory: /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/concepts
+12:36:11.366 Found 4 files
+12:36:11.367 Initializing specs cache with 3 specs
+12:36:11.367 Adding specs from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/PlaceOrder.spec
+12:36:11.368 Adding specs from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/CustomerLogout.spec
+12:36:11.368 Adding specs from /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/CustomerSignup.spec
+12:36:11.369 Initializing steps cache with 7 steps
+12:36:11.369 Starting language runner
+DEPRECATION: Python 2.7 reached the end of its life on January 1st, 2020. Please upgrade your Python as Python 2.7 is no longer maintained. pip 21.0 will drop support for Python 2.7 in January 2021. More details about Python 2 support in pip can be found at https://pip.pypa.io/en/latest/development/release-process/#python-2-support pip 21.0 will remove support for this functionality.
+12:36:13.042 Python: 2.7.12
+12:36:13.065 Listening on port:36566
+12:36:13.066 LangServer: reading on stdin, writing on stdout
+13:14:36.297 Failed to parse /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/utils/driver.py:8 ')'
+13:27:54.239 Failed to parse /home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/step_impl/utils/driver.py:9 ')'
+16:32:06.144 Connection closed
