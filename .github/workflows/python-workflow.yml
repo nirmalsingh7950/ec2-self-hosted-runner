@@ -34,4 +34,4 @@ jobs:
         ls
     - name: running test
       run: |
-        guage run gauge-selenium-python/specs/
+        gauge run gauge-selenium-python/specs/
