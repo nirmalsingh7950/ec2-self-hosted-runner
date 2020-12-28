@@ -25,13 +25,7 @@ jobs:
     - name: Install python plugin of gauge
       run: |
         gauge install python
-        
-    - name: Present working directory
-      run: |
-        echo "PRESENT WORKING DIRECTORY: "
-        pwd
-        echo "List:"
-        ls
+
     - name: running test
       run: |
         gauge run gauge-selenium-python/specs/
