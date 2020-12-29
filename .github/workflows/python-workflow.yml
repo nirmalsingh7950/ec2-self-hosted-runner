@@ -8,24 +8,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
     - name: Install pip
       run: |
         sudo apt-get update
         sudo apt-get -y install python3-pip
         pip3 --version
         python3 --version
-    - name: Installing dependencies
-      run: |
-        pip3 install -r gauge-selenium-python/requirements.txt
-        
-    - name: Install python plugin of gauge
-      run: |
-        gauge install python
-
-    - name: running test
-      run: |
-        gauge run gauge-selenium-python/specs/
