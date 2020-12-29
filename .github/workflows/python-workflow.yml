@@ -27,7 +27,7 @@ jobs:
     - name: ping ec2
       run: |
         ping -c 5 54.197.137.2 
-#    - name: Run gauge test
-#      run: |
-#        cd gauge-selenium-python
-#        gauge run specs/
+    - name: Run gauge test
+      run: |
+        cd gauge-selenium-python
+        gauge run specs/
