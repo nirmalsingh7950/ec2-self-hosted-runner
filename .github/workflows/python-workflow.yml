@@ -26,4 +26,5 @@ jobs:
         ls gauge-selenium-python/
     - name: Run gauge test
       run: |
-        gauge run gauge-selenium-python/specs
+        cd gauge-selenium-python
+        gauge run specs/
