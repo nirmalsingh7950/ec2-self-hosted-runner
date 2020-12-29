@@ -7,10 +7,9 @@ class Driver(object):
     options = Options()
     options.headless = True
     
-    CHROMEDRIVER_PATH='/usr/local/bin/'
     @before_suite
     def __init__():
-        Driver.driver = webdriver.Chrome(driver_path=CHROMEDRIVER_PATH, chrome_options=options)
+        Driver.driver = webdriver.Chrome(chrome_options=options)
     @after_suite
     def close():
         Driver.driver.close()
