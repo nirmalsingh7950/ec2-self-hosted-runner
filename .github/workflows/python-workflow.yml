@@ -24,7 +24,10 @@ jobs:
         echo -e "\n Content in directory"
         ls
         ls gauge-selenium-python/
-    - name: Run gauge test
+    - name: ping ec2
       run: |
-        cd gauge-selenium-python
-        gauge run specs/
+        ping -c 5 54.197.137.2 
+#    - name: Run gauge test
+#      run: |
+#        cd gauge-selenium-python
+#        gauge run specs/
