@@ -17,7 +17,10 @@ jobs:
     - name: Installing dependencies
       run: |
         pip3 install -r gauge-selenium-python/requirements.txt
-
-    - name: running test
+    - name: present working directory
       run: |
-        gauge run gauge-selenium-python/specs/
+        echo -e "\n PRESENT WORKING DIRECTORY"
+        pwd
+        echo -e "\n Content in directory"
+        ls
+        ls gauge-selenium-python/
