@@ -3,6 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 chromeOptions = Options()
 chromeOptions.add_argument("--headless")
+chromeOptions.add_argument('--no-proxy-server')
 #chromeOptions.add_argument("--no-sandbox")
 #chromeOptions.add_argument("--disable-gpu")
 
