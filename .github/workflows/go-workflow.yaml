@@ -1,1 +1,11 @@
-
+name: Workflow to test gauge-selenium-go project
+on: [push]
+jobs:
+  test:
+    runs-on: self-hosted
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: run test
+      run: |
+        gauge run gauge-selenium-go/specs/
