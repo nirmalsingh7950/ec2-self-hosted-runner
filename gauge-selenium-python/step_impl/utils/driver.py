@@ -3,8 +3,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 chromeOptions = Options()
 chromeOptions.add_argument("--headless")
-chromeOptions.add_argument("--no-sandbox")
-chromeOptions.add_argument("--disable-gpu")
+#chromeOptions.add_argument("--no-sandbox")
+#chromeOptions.add_argument("--disable-gpu")
 
 class Driver(object):
     driver = None
