@@ -2311,3 +2311,745 @@ Total time taken: 9.092s
 15:20:39.036 
 Total time taken: 24.954s
 15:20:39.036 Updates are available. Run `gauge update -c` for more info.
+30-12-2020 05:02:37.706 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots
+30-12-2020 05:02:37.711 [Gauge] [DEBUG] Plugin python is already installed.
+30-12-2020 05:02:37.716 [Gauge] [DEBUG] Plugin html-report is already installed.
+30-12-2020 05:02:37.718 [Gauge] [DEBUG] Parsing started.
+30-12-2020 05:02:37.721 [Gauge] [DEBUG] Started concepts parsing.
+30-12-2020 05:02:37.729 [Gauge] [DEBUG] 8 concepts parsing completed.
+30-12-2020 05:02:37.729 [Gauge] [DEBUG] Started specifications parsing.
+30-12-2020 05:02:37.747 [Gauge] [DEBUG] 3 specifications parsing completed.
+30-12-2020 05:02:37.747 [Gauge] [DEBUG] Parsing completed.
+30-12-2020 05:02:38.191 [Gauge] [DEBUG] Checking updates...
+30-12-2020 05:02:38.191 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=python&p=html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 05:02:38.339 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/python?l=python&p=html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 05:02:38.357 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=python&p=html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 05:02:38.764 [python] [INFO] Python: 3.6.9
+30-12-2020 05:02:38.764 [python] [DEBUG] Loading step implementations from /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/step_impl dirs.
+30-12-2020 05:02:38.891 [python] [DEBUG] Starting grpc server..
+30-12-2020 05:02:38.932 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 37665
+30-12-2020 05:02:38.937 [Gauge] [DEBUG] Successfully made the connection with runner with port: 37665
+30-12-2020 05:02:38.937 [Gauge] [DEBUG] Validation started.
+30-12-2020 05:02:38.953 [Gauge] [DEBUG] Validation completed.
+30-12-2020 05:02:38.953 [Gauge] [DEBUG] Run started
+30-12-2020 05:02:38.955 [Gauge] [DEBUG] Starting Html Report plugin
+30-12-2020 05:02:39.073 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 38077
+30-12-2020 05:02:39.077 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 38077
+30-12-2020 05:02:39.077 [Gauge] [DEBUG] Initialising suite data store.
+30-12-2020 05:02:39.325 [python] [CRITICAL] Exception occurred while loading step implementations from file: step_impl/utils/driver.py.
+30-12-2020 05:02:39.329 [Gauge] [ERROR] Error Message: transport is closing
+30-12-2020 05:02:39.329 [Gauge] [ERROR] Stacktrace: 
+30-12-2020 05:02:39.329 [Gauge] [ERROR] Error Message: Runner is not Alive
+30-12-2020 05:02:39.329 [Gauge] [ERROR] Stacktrace: 
+30-12-2020 05:02:39.330 [html-report] [DEBUG] Transformed SuiteResult to report structure
+30-12-2020 05:02:39.330 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+30-12-2020 05:02:39.482 [html-report] [INFO] Successfully generated html-report to => /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/reports/html-report/index.html
+30-12-2020 05:02:39.482 [html-report] [DEBUG] Done generating HTML report using theme from /home/ubuntu/.gauge/plugins/html-report/4.0.12/themes/default
+30-12-2020 05:02:39.482 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+30-12-2020 05:02:39.484 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = all SubConns are in TransientFailure, latest connection error: connection closed
+30-12-2020 05:02:39.485 [Gauge] [INFO] Specifications:	0 executed	0 passed	0 failed	0 skipped
+30-12-2020 05:02:39.485 [Gauge] [INFO] Scenarios:	0 executed	0 passed	0 failed	0 skipped
+30-12-2020 05:02:39.485 [Gauge] [INFO] 
+Total time taken: 375ms
+30-12-2020 06:19:02.316 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots
+30-12-2020 06:19:02.320 [Gauge] [DEBUG] Plugin html-report is already installed.
+30-12-2020 06:19:02.320 [Gauge] [DEBUG] Plugin python is already installed.
+30-12-2020 06:19:02.321 [Gauge] [DEBUG] Parsing started.
+30-12-2020 06:19:02.321 [Gauge] [DEBUG] Started concepts parsing.
+30-12-2020 06:19:02.363 [Gauge] [DEBUG] 8 concepts parsing completed.
+30-12-2020 06:19:02.364 [Gauge] [DEBUG] Started specifications parsing.
+30-12-2020 06:19:02.366 [Gauge] [DEBUG] 3 specifications parsing completed.
+30-12-2020 06:19:02.366 [Gauge] [DEBUG] Parsing completed.
+30-12-2020 06:19:02.659 [Gauge] [DEBUG] Checking updates...
+30-12-2020 06:19:02.659 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=python&p=html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 06:19:02.700 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/python?l=python&p=html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 06:19:02.710 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=python&p=html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 06:19:02.909 [python] [INFO] Python: 3.6.9
+30-12-2020 06:19:02.910 [python] [DEBUG] Loading step implementations from /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/step_impl dirs.
+30-12-2020 06:19:03.034 [python] [DEBUG] Starting grpc server..
+30-12-2020 06:19:03.049 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 40029
+30-12-2020 06:19:03.051 [Gauge] [DEBUG] Successfully made the connection with runner with port: 40029
+30-12-2020 06:19:03.051 [Gauge] [DEBUG] Validation started.
+30-12-2020 06:19:03.059 [Gauge] [DEBUG] Validation completed.
+30-12-2020 06:19:03.059 [Gauge] [DEBUG] Run started
+30-12-2020 06:19:03.060 [Gauge] [DEBUG] Starting Html Report plugin
+30-12-2020 06:19:03.066 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 41167
+30-12-2020 06:19:03.066 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 41167
+30-12-2020 06:19:03.066 [Gauge] [DEBUG] Initialising suite data store.
+30-12-2020 06:19:03.128 [python] [CRITICAL] Exception occurred while loading step implementations from file: step_impl/utils/driver.py.
+30-12-2020 06:19:03.131 [Gauge] [ERROR] Error Message: transport is closing
+30-12-2020 06:19:03.131 [Gauge] [ERROR] Stacktrace: 
+30-12-2020 06:19:03.132 [Gauge] [ERROR] Error Message: Runner is not Alive
+30-12-2020 06:19:03.132 [Gauge] [ERROR] Stacktrace: 
+30-12-2020 06:19:03.134 [html-report] [DEBUG] Transformed SuiteResult to report structure
+30-12-2020 06:19:03.135 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+30-12-2020 06:19:03.147 [html-report] [INFO] Successfully generated html-report to => /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/reports/html-report/index.html
+30-12-2020 06:19:03.147 [html-report] [DEBUG] Done generating HTML report using theme from /home/ubuntu/.gauge/plugins/html-report/4.0.12/themes/default
+30-12-2020 06:19:03.148 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+30-12-2020 06:19:03.148 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = all SubConns are in TransientFailure, latest connection error: connection closed
+30-12-2020 06:19:03.149 [Gauge] [INFO] Specifications:	0 executed	0 passed	0 failed	0 skipped
+30-12-2020 06:19:03.149 [Gauge] [INFO] Scenarios:	0 executed	0 passed	0 failed	0 skipped
+30-12-2020 06:19:03.150 [Gauge] [INFO] 
+Total time taken: 71ms
+30-12-2020 06:20:13.552 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots
+30-12-2020 06:20:13.552 [Gauge] [DEBUG] Plugin python is already installed.
+30-12-2020 06:20:13.552 [Gauge] [DEBUG] Plugin html-report is already installed.
+30-12-2020 06:20:13.553 [Gauge] [DEBUG] Parsing started.
+30-12-2020 06:20:13.553 [Gauge] [DEBUG] Started concepts parsing.
+30-12-2020 06:20:13.554 [Gauge] [DEBUG] 8 concepts parsing completed.
+30-12-2020 06:20:13.554 [Gauge] [DEBUG] Started specifications parsing.
+30-12-2020 06:20:13.556 [Gauge] [DEBUG] 3 specifications parsing completed.
+30-12-2020 06:20:13.556 [Gauge] [DEBUG] Parsing completed.
+30-12-2020 06:20:13.560 [python] [ERROR] ./start.sh: line 7: python: command not found
+30-12-2020 06:20:13.560 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 127
+30-12-2020 06:20:13.560 [Gauge] [CRITICAL] Failed to start gauge API: Error occurred while waiting for runner process to finish.
+Error : exit status 127
+30-12-2020 06:23:00.143 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots
+30-12-2020 06:23:00.145 [Gauge] [DEBUG] Plugin html-report is already installed.
+30-12-2020 06:23:00.146 [Gauge] [DEBUG] Plugin python is already installed.
+30-12-2020 06:23:00.146 [Gauge] [DEBUG] Parsing started.
+30-12-2020 06:23:00.146 [Gauge] [DEBUG] Started concepts parsing.
+30-12-2020 06:23:00.148 [Gauge] [DEBUG] 8 concepts parsing completed.
+30-12-2020 06:23:00.148 [Gauge] [DEBUG] Started specifications parsing.
+30-12-2020 06:23:00.154 [Gauge] [DEBUG] 3 specifications parsing completed.
+30-12-2020 06:23:00.154 [Gauge] [DEBUG] Parsing completed.
+30-12-2020 06:23:00.391 [Gauge] [DEBUG] Checking updates...
+30-12-2020 06:23:00.391 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=python&p=html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 06:23:00.644 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/python?l=python&p=html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 06:23:00.707 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=python&p=html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 06:23:01.574 [python] [INFO] Python: 3.6.9
+30-12-2020 06:23:01.574 [python] [DEBUG] Loading step implementations from /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/step_impl dirs.
+30-12-2020 06:23:01.849 [python] [DEBUG] Starting grpc server..
+30-12-2020 06:23:01.957 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 44905
+30-12-2020 06:23:01.968 [Gauge] [DEBUG] Successfully made the connection with runner with port: 44905
+30-12-2020 06:23:01.968 [Gauge] [DEBUG] Validation started.
+30-12-2020 06:23:01.996 [Gauge] [DEBUG] Validation completed.
+30-12-2020 06:23:01.996 [Gauge] [DEBUG] Run started
+30-12-2020 06:23:02.001 [Gauge] [DEBUG] Starting Html Report plugin
+30-12-2020 06:23:02.143 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 41791
+30-12-2020 06:23:02.148 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 41791
+30-12-2020 06:23:02.148 [Gauge] [DEBUG] Initialising suite data store.
+30-12-2020 06:23:02.372 [python] [CRITICAL] Exception occurred while loading step implementations from file: step_impl/utils/driver.py.
+30-12-2020 06:23:02.379 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+30-12-2020 06:23:02.380 [Gauge] [ERROR] Error Message: transport is closing
+30-12-2020 06:23:02.381 [Gauge] [ERROR] Stacktrace: 
+30-12-2020 06:23:02.381 [Gauge] [ERROR] Error Message: Runner is not Alive
+30-12-2020 06:23:02.381 [Gauge] [ERROR] Stacktrace: 
+30-12-2020 06:23:02.382 [html-report] [DEBUG] Transformed SuiteResult to report structure
+30-12-2020 06:23:02.406 [html-report] [INFO] Successfully generated html-report to => /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/reports/html-report/index.html
+30-12-2020 06:23:02.406 [html-report] [DEBUG] Done generating HTML report using theme from /home/ubuntu/.gauge/plugins/html-report/4.0.12/themes/default
+30-12-2020 06:23:02.406 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+30-12-2020 06:23:02.408 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = all SubConns are in TransientFailure, latest connection error: connection error: desc = "transport: Error while dialing dial tcp 127.0.0.1:44905: connect: connection refused"
+30-12-2020 06:23:02.408 [Gauge] [INFO] Specifications:	0 executed	0 passed	0 failed	0 skipped
+30-12-2020 06:23:02.408 [Gauge] [INFO] Scenarios:	0 executed	0 passed	0 failed	0 skipped
+30-12-2020 06:23:02.409 [Gauge] [INFO] 
+Total time taken: 383ms
+30-12-2020 06:28:03.750 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots
+30-12-2020 06:28:03.759 [Gauge] [DEBUG] Plugin python is already installed.
+30-12-2020 06:28:03.763 [Gauge] [DEBUG] Plugin html-report is already installed.
+30-12-2020 06:28:03.768 [Gauge] [DEBUG] Parsing started.
+30-12-2020 06:28:03.769 [Gauge] [DEBUG] Started concepts parsing.
+30-12-2020 06:28:03.789 [Gauge] [DEBUG] 8 concepts parsing completed.
+30-12-2020 06:28:03.789 [Gauge] [DEBUG] Started specifications parsing.
+30-12-2020 06:28:03.794 [Gauge] [DEBUG] 3 specifications parsing completed.
+30-12-2020 06:28:03.794 [Gauge] [DEBUG] Parsing completed.
+30-12-2020 06:28:04.383 [Gauge] [DEBUG] Checking updates...
+30-12-2020 06:28:04.384 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=python&p=html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 06:28:04.645 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/python?l=python&p=html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 06:28:04.732 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=python&p=html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 06:28:04.807 [python] [INFO] Python: 3.6.9
+30-12-2020 06:28:04.807 [python] [DEBUG] Loading step implementations from /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/step_impl dirs.
+30-12-2020 06:28:04.950 [python] [DEBUG] Starting grpc server..
+30-12-2020 06:28:04.990 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 44881
+30-12-2020 06:28:04.997 [Gauge] [DEBUG] Successfully made the connection with runner with port: 44881
+30-12-2020 06:28:04.997 [Gauge] [DEBUG] Validation started.
+30-12-2020 06:28:05.007 [Gauge] [DEBUG] Validation completed.
+30-12-2020 06:28:05.008 [Gauge] [DEBUG] Run started
+30-12-2020 06:28:05.010 [Gauge] [DEBUG] Starting Html Report plugin
+30-12-2020 06:28:05.124 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 43027
+30-12-2020 06:28:05.128 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 43027
+30-12-2020 06:28:05.128 [Gauge] [DEBUG] Initialising suite data store.
+30-12-2020 06:28:05.293 [python] [CRITICAL] Exception occurred while loading step implementations from file: step_impl/utils/driver.py.
+30-12-2020 06:28:05.298 [Gauge] [ERROR] Error Message: transport is closing
+30-12-2020 06:28:05.300 [Gauge] [ERROR] Stacktrace: 
+30-12-2020 06:28:05.301 [Gauge] [ERROR] Error Message: Runner is not Alive
+30-12-2020 06:28:05.301 [Gauge] [ERROR] Stacktrace: 
+30-12-2020 06:28:05.301 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+30-12-2020 06:28:05.302 [html-report] [DEBUG] Transformed SuiteResult to report structure
+30-12-2020 06:28:05.322 [html-report] [INFO] Successfully generated html-report to => /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/reports/html-report/index.html
+30-12-2020 06:28:05.323 [html-report] [DEBUG] Done generating HTML report using theme from /home/ubuntu/.gauge/plugins/html-report/4.0.12/themes/default
+30-12-2020 06:28:05.323 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+30-12-2020 06:28:05.325 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = all SubConns are in TransientFailure, latest connection error: connection closed
+30-12-2020 06:28:05.325 [Gauge] [INFO] Specifications:	0 executed	0 passed	0 failed	0 skipped
+30-12-2020 06:28:05.325 [Gauge] [INFO] Scenarios:	0 executed	0 passed	0 failed	0 skipped
+30-12-2020 06:28:05.325 [Gauge] [INFO] 
+Total time taken: 288ms
+30-12-2020 06:32:24.990 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots
+30-12-2020 06:32:24.991 [Gauge] [DEBUG] Plugin python is already installed.
+30-12-2020 06:32:24.991 [Gauge] [DEBUG] Plugin html-report is already installed.
+30-12-2020 06:32:24.991 [Gauge] [DEBUG] Parsing started.
+30-12-2020 06:32:24.991 [Gauge] [DEBUG] Started concepts parsing.
+30-12-2020 06:32:24.995 [Gauge] [DEBUG] 8 concepts parsing completed.
+30-12-2020 06:32:24.995 [Gauge] [DEBUG] Started specifications parsing.
+30-12-2020 06:32:24.997 [Gauge] [DEBUG] 3 specifications parsing completed.
+30-12-2020 06:32:24.997 [Gauge] [DEBUG] Parsing completed.
+30-12-2020 06:32:25.293 [Gauge] [DEBUG] Checking updates...
+30-12-2020 06:32:25.293 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=python&p=html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 06:32:25.514 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/python?l=python&p=html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 06:32:25.567 [python] [INFO] Python: 3.6.9
+30-12-2020 06:32:25.567 [python] [DEBUG] Loading step implementations from /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/step_impl dirs.
+30-12-2020 06:32:25.579 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=python&p=html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 06:32:25.697 [python] [DEBUG] Starting grpc server..
+30-12-2020 06:32:25.703 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 46425
+30-12-2020 06:32:25.705 [Gauge] [DEBUG] Successfully made the connection with runner with port: 46425
+30-12-2020 06:32:25.705 [Gauge] [DEBUG] Validation started.
+30-12-2020 06:32:25.714 [Gauge] [DEBUG] Validation completed.
+30-12-2020 06:32:25.714 [Gauge] [DEBUG] Run started
+30-12-2020 06:32:25.715 [Gauge] [DEBUG] Starting Html Report plugin
+30-12-2020 06:32:25.720 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 38433
+30-12-2020 06:32:25.720 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 38433
+30-12-2020 06:32:25.721 [Gauge] [DEBUG] Initialising suite data store.
+30-12-2020 06:32:25.792 [python] [CRITICAL] Exception occurred while loading step implementations from file: step_impl/utils/driver.py.
+30-12-2020 06:32:25.796 [Gauge] [ERROR] Error Message: transport is closing
+30-12-2020 06:32:25.797 [Gauge] [ERROR] Stacktrace: 
+30-12-2020 06:32:25.801 [html-report] [DEBUG] Transformed SuiteResult to report structure
+30-12-2020 06:32:25.802 [Gauge] [ERROR] Error Message: Runner is not Alive
+30-12-2020 06:32:25.802 [Gauge] [ERROR] Stacktrace: 
+30-12-2020 06:32:25.802 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+30-12-2020 06:32:25.803 [html-report] [INFO] Successfully generated html-report to => /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/reports/html-report/index.html
+30-12-2020 06:32:25.803 [html-report] [DEBUG] Done generating HTML report using theme from /home/ubuntu/.gauge/plugins/html-report/4.0.12/themes/default
+30-12-2020 06:32:25.803 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+30-12-2020 06:32:25.804 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = all SubConns are in TransientFailure, latest connection error: connection closed
+30-12-2020 06:32:25.804 [Gauge] [INFO] Specifications:	0 executed	0 passed	0 failed	0 skipped
+30-12-2020 06:32:25.804 [Gauge] [INFO] Scenarios:	0 executed	0 passed	0 failed	0 skipped
+30-12-2020 06:32:25.804 [Gauge] [INFO] 
+Total time taken: 82ms
+30-12-2020 12:10:47.689 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots
+30-12-2020 12:10:47.696 [Gauge] [DEBUG] Plugin python is already installed.
+30-12-2020 12:10:47.698 [Gauge] [DEBUG] Plugin html-report is already installed.
+30-12-2020 12:10:47.698 [Gauge] [DEBUG] Parsing started.
+30-12-2020 12:10:47.699 [Gauge] [DEBUG] Started concepts parsing.
+30-12-2020 12:10:47.715 [Gauge] [DEBUG] 8 concepts parsing completed.
+30-12-2020 12:10:47.715 [Gauge] [DEBUG] Started specifications parsing.
+30-12-2020 12:10:47.723 [Gauge] [DEBUG] 3 specifications parsing completed.
+30-12-2020 12:10:47.723 [Gauge] [DEBUG] Parsing completed.
+30-12-2020 12:10:48.013 [Gauge] [DEBUG] Checking updates...
+30-12-2020 12:10:48.014 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/go?l=python&p=go,html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 12:10:48.202 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=python&p=go,html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 12:10:48.223 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/python?l=python&p=go,html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 12:10:48.241 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=python&p=go,html-report,python,screenshot&o=linux&a=amd64
+30-12-2020 12:10:48.914 [python] [INFO] Python: 3.6.9
+30-12-2020 12:10:48.914 [python] [DEBUG] Loading step implementations from /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/step_impl dirs.
+30-12-2020 12:10:49.042 [python] [DEBUG] Starting grpc server..
+30-12-2020 12:10:49.073 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 33475
+30-12-2020 12:10:49.080 [Gauge] [DEBUG] Successfully made the connection with runner with port: 33475
+30-12-2020 12:10:49.080 [Gauge] [DEBUG] Validation started.
+30-12-2020 12:10:49.090 [Gauge] [DEBUG] Validation completed.
+30-12-2020 12:10:49.090 [Gauge] [DEBUG] Run started
+30-12-2020 12:10:49.092 [Gauge] [DEBUG] Starting Html Report plugin
+30-12-2020 12:10:49.124 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 36151
+30-12-2020 12:10:49.126 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 36151
+30-12-2020 12:10:49.126 [Gauge] [DEBUG] Initialising suite data store.
+30-12-2020 12:10:51.968 [Gauge] [INFO] # Customer Log out
+30-12-2020 12:10:52.002 [Gauge] [DEBUG] 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |John18|john18.doe@example.com|password|
+30-12-2020 12:10:52.002 [Gauge] [INFO] ## Customer must be able to log out
+30-12-2020 12:10:52.005 [Gauge] [DEBUG] * Go to active admin store
+
+30-12-2020 12:10:52.005 [Gauge] [DEBUG] * Go to the store website
+30-12-2020 12:10:53.025 [Gauge] [DEBUG] * Clear previous login
+30-12-2020 12:10:53.030 [python] [INFO] No previous logins
+30-12-2020 12:10:53.031 [Gauge] [DEBUG] * Sign up as "John18" with email "john18.doe@example.com" and "password"
+30-12-2020 12:10:53.999 [Gauge] [DEBUG] * Log out
+30-12-2020 12:10:53.999 [Gauge] [DEBUG] * Log out the customer
+30-12-2020 12:11:00.217 [Gauge] [DEBUG] * Show a message "You have been logged out." "Log in"
+30-12-2020 12:11:00.287 [python] [ERROR] panic: empty display string
+30-12-2020 12:11:00.287 [python] [ERROR] goroutine 1 [running]:
+30-12-2020 12:11:00.287 [python] [ERROR] main.main()
+30-12-2020 12:11:00.287 [python] [ERROR] 	/Users/vagrant/go-agent-17.4.0/pipelines/Screenshot/src/github.com/getgauge/gauge_screenshot/main.go:44 +0x19c
+30-12-2020 12:11:00.289 [python] [WARNING] Screenshot file /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083759794415976102581842190424634299.png does not exists.
+30-12-2020 12:11:00.310 [Gauge] [ERROR] Failed Step: Show a message "You have been logged out." "Log in"
+30-12-2020 12:11:00.310 [Gauge] [ERROR] Error Message: HTTPConnectionPool(host='127.0.0.1', port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f48ecf75f28>: Failed to establish a new connection: [Errno 111] Connection refused',))
+30-12-2020 12:11:00.310 [Gauge] [ERROR] Specification: specs/CustomerLogout.spec
+30-12-2020 12:11:00.310 [Gauge] [ERROR] Stacktrace: 
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 144, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 83, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 357, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.6/http/client.py", line 1281, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1327, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1276, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1042, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.6/http/client.py", line 980, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 153, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING))
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f48ecf75f28>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/getgauge/executor.py", line 33, in execute_method
+    step.impl(*params)
+  File "/home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/step_impl/utils/flashMessages.py", line 8, in showAMessage
+    webDriver.find_element_by_link_text(linkText)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3/dist-packages/urllib3/request.py", line 70, in request
+    **urlopen_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/poolmanager.py", line 322, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 639, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f48ecf75f28>: Failed to establish a new connection: [Errno 111] Connection refused',))
+30-12-2020 12:11:00.322 [Gauge] [DEBUG] 
+   |name  |email                 |password|
+   |------|----------------------|--------|
+   |Jane18|jane18.doe@example.com|password|
+30-12-2020 12:11:00.322 [Gauge] [INFO] ## Customer must be able to log out
+30-12-2020 12:11:00.324 [Gauge] [DEBUG] * Go to active admin store
+
+30-12-2020 12:11:00.324 [Gauge] [DEBUG] * Go to the store website
+30-12-2020 12:11:00.333 [python] [ERROR] panic: empty display string
+30-12-2020 12:11:00.333 [python] [ERROR] goroutine 1 [running]:
+30-12-2020 12:11:00.333 [python] [ERROR] main.main()
+30-12-2020 12:11:00.333 [python] [ERROR] 	/Users/vagrant/go-agent-17.4.0/pipelines/Screenshot/src/github.com/getgauge/gauge_screenshot/main.go:44 +0x19c
+30-12-2020 12:11:00.334 [python] [WARNING] Screenshot file /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083759873644138616846179783968584635.png does not exists.
+30-12-2020 12:11:00.338 [Gauge] [ERROR] Failed Step: Go to the store website
+30-12-2020 12:11:00.338 [Gauge] [ERROR] Error Message: HTTPConnectionPool(host='127.0.0.1', port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f48ecf081d0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+30-12-2020 12:11:00.338 [Gauge] [ERROR] Specification: specs/CustomerLogout.spec
+30-12-2020 12:11:00.338 [Gauge] [ERROR] Stacktrace: 
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 144, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 83, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 357, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.6/http/client.py", line 1281, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1327, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1276, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1042, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.6/http/client.py", line 980, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 153, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING))
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f48ecf081d0>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/getgauge/executor.py", line 33, in execute_method
+    step.impl(*params)
+  File "/home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/step_impl/appLauncher.py", line 7, in gotoStoreWebsite
+    Driver.driver.get(URL)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3/dist-packages/urllib3/request.py", line 70, in request
+    **urlopen_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/poolmanager.py", line 322, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 639, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f48ecf081d0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+30-12-2020 12:11:00.344 [Gauge] [INFO] # Customer sign-up
+30-12-2020 12:11:00.346 [Gauge] [INFO] ## Customer Sign-up
+30-12-2020 12:11:00.348 [Gauge] [DEBUG] * Go to active admin store
+
+30-12-2020 12:11:00.348 [Gauge] [DEBUG] * Go to the store website
+30-12-2020 12:11:00.367 [python] [ERROR] panic: empty display string
+30-12-2020 12:11:00.367 [python] [ERROR] goroutine 1 [running]:
+30-12-2020 12:11:00.367 [python] [ERROR] main.main()
+30-12-2020 12:11:00.367 [python] [ERROR] 	/Users/vagrant/go-agent-17.4.0/pipelines/Screenshot/src/github.com/getgauge/gauge_screenshot/main.go:44 +0x19c
+30-12-2020 12:11:00.369 [python] [WARNING] Screenshot file /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083759952872301131110517377512534971.png does not exists.
+30-12-2020 12:11:00.371 [Gauge] [ERROR] Failed Step: Go to the store website
+30-12-2020 12:11:00.371 [Gauge] [ERROR] Error Message: HTTPConnectionPool(host='127.0.0.1', port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f48ed1db0b8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+30-12-2020 12:11:00.371 [Gauge] [ERROR] Specification: specs/CustomerSignup.spec
+30-12-2020 12:11:00.371 [Gauge] [ERROR] Stacktrace: 
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 144, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 83, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 357, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.6/http/client.py", line 1281, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1327, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1276, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1042, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.6/http/client.py", line 980, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 153, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING))
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f48ed1db0b8>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/getgauge/executor.py", line 33, in execute_method
+    step.impl(*params)
+  File "/home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/step_impl/appLauncher.py", line 7, in gotoStoreWebsite
+    Driver.driver.get(URL)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3/dist-packages/urllib3/request.py", line 70, in request
+    **urlopen_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/poolmanager.py", line 322, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 639, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f48ed1db0b8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+30-12-2020 12:11:00.375 [Gauge] [INFO] # Place an Order
+30-12-2020 12:11:00.377 [Gauge] [INFO] ## Buy a book
+30-12-2020 12:11:00.379 [Gauge] [DEBUG] * Go to active admin store
+
+30-12-2020 12:11:00.379 [Gauge] [DEBUG] * Go to the store website
+30-12-2020 12:11:00.387 [python] [ERROR] panic: empty display string
+30-12-2020 12:11:00.387 [python] [ERROR] goroutine 1 [running]:
+30-12-2020 12:11:00.387 [python] [ERROR] main.main()
+30-12-2020 12:11:00.387 [python] [ERROR] 	/Users/vagrant/go-agent-17.4.0/pipelines/Screenshot/src/github.com/getgauge/gauge_screenshot/main.go:44 +0x19c
+30-12-2020 12:11:00.389 [python] [WARNING] Screenshot file /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083760032100463645374854971056485307.png does not exists.
+30-12-2020 12:11:00.390 [Gauge] [ERROR] Failed Step: Go to the store website
+30-12-2020 12:11:00.390 [Gauge] [ERROR] Error Message: HTTPConnectionPool(host='127.0.0.1', port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f48ecf089b0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+30-12-2020 12:11:00.390 [Gauge] [ERROR] Specification: specs/PlaceOrder.spec
+30-12-2020 12:11:00.390 [Gauge] [ERROR] Stacktrace: 
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 144, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 83, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 357, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.6/http/client.py", line 1281, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1327, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1276, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1042, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.6/http/client.py", line 980, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 153, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING))
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f48ecf089b0>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/getgauge/executor.py", line 33, in execute_method
+    step.impl(*params)
+  File "/home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/step_impl/appLauncher.py", line 7, in gotoStoreWebsite
+    Driver.driver.get(URL)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3/dist-packages/urllib3/request.py", line 70, in request
+    **urlopen_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/poolmanager.py", line 322, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 639, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f48ecf089b0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+30-12-2020 12:11:00.394 [Gauge] [INFO] ## Cart retains items until order is placed
+30-12-2020 12:11:00.397 [Gauge] [DEBUG] * Go to active admin store
+
+30-12-2020 12:11:00.397 [Gauge] [DEBUG] * Go to the store website
+30-12-2020 12:11:00.405 [python] [ERROR] panic: empty display string
+30-12-2020 12:11:00.405 [python] [ERROR] goroutine 1 [running]:
+30-12-2020 12:11:00.405 [python] [ERROR] main.main()
+30-12-2020 12:11:00.405 [python] [ERROR] 	/Users/vagrant/go-agent-17.4.0/pipelines/Screenshot/src/github.com/getgauge/gauge_screenshot/main.go:44 +0x19c
+30-12-2020 12:11:00.406 [python] [WARNING] Screenshot file /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083760111328626159639192564600435643.png does not exists.
+30-12-2020 12:11:00.408 [Gauge] [ERROR] Failed Step: Go to the store website
+30-12-2020 12:11:00.408 [Gauge] [ERROR] Error Message: HTTPConnectionPool(host='127.0.0.1', port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f48ecf14160>: Failed to establish a new connection: [Errno 111] Connection refused',))
+30-12-2020 12:11:00.408 [Gauge] [ERROR] Specification: specs/PlaceOrder.spec
+30-12-2020 12:11:00.408 [Gauge] [ERROR] Stacktrace: 
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 144, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 83, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 357, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.6/http/client.py", line 1281, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1327, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1276, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1042, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.6/http/client.py", line 980, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 153, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING))
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f48ecf14160>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/getgauge/executor.py", line 33, in execute_method
+    step.impl(*params)
+  File "/home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/step_impl/appLauncher.py", line 7, in gotoStoreWebsite
+    Driver.driver.get(URL)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3/dist-packages/urllib3/request.py", line 70, in request
+    **urlopen_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/poolmanager.py", line 322, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 639, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f48ecf14160>: Failed to establish a new connection: [Errno 111] Connection refused',))
+30-12-2020 12:11:00.420 [python] [ERROR] panic: empty display string
+30-12-2020 12:11:00.420 [python] [ERROR] goroutine 1 [running]:
+30-12-2020 12:11:00.420 [python] [ERROR] main.main()
+30-12-2020 12:11:00.420 [python] [ERROR] 	/Users/vagrant/go-agent-17.4.0/pipelines/Screenshot/src/github.com/getgauge/gauge_screenshot/main.go:44 +0x19c
+30-12-2020 12:11:00.424 [python] [WARNING] Screenshot file /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083760190556788673903530158144385979.png does not exists.
+30-12-2020 12:11:00.427 [Gauge] [ERROR] Error Message: HTTPConnectionPool(host='127.0.0.1', port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/window (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f48ecf08dd8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+30-12-2020 12:11:00.427 [Gauge] [ERROR] Stacktrace: 
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 144, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 83, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 357, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.6/http/client.py", line 1281, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1327, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1276, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1042, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.6/http/client.py", line 980, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 153, in _new_conn
+    self, "Failed to establish a new connection: %!s(MISSING)" %!e(MISSING))
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f48ecf08dd8>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/getgauge/executor.py", line 33, in execute_method
+    step.impl(*params)
+  File "/home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/step_impl/utils/driver.py", line 17, in close
+    Driver.driver.close()
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 688, in close
+    self.execute(Command.CLOSE)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3/dist-packages/urllib3/request.py", line 66, in request
+    **urlopen_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/request.py", line 87, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/poolmanager.py", line 322, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 668, in urlopen
+    **response_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 639, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/window (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f48ecf08dd8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+30-12-2020 12:11:00.435 [html-report] [DEBUG] Transformed SuiteResult to report structure
+30-12-2020 12:11:00.524 [html-report] [WARNING] Failed to read screenhsot open /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083760190556788673903530158144385979.png: no such file or directory
+30-12-2020 12:11:00.524 [html-report] [WARNING] Failed to read screenhsot open /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083759794415976102581842190424634299.png: no such file or directory
+30-12-2020 12:11:00.524 [html-report] [WARNING] Failed to read screenhsot open /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083759794415976102581842190424634299.png: no such file or directory
+30-12-2020 12:11:00.525 [html-report] [WARNING] Failed to read screenhsot open /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083759873644138616846179783968584635.png: no such file or directory
+30-12-2020 12:11:00.525 [html-report] [WARNING] Failed to read screenhsot open /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083759873644138616846179783968584635.png: no such file or directory
+30-12-2020 12:11:00.525 [html-report] [WARNING] Failed to read screenhsot open /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083759952872301131110517377512534971.png: no such file or directory
+30-12-2020 12:11:00.525 [html-report] [WARNING] Failed to read screenhsot open /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083759952872301131110517377512534971.png: no such file or directory
+30-12-2020 12:11:00.525 [html-report] [WARNING] Failed to read screenhsot open /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083760032100463645374854971056485307.png: no such file or directory
+30-12-2020 12:11:00.525 [html-report] [WARNING] Failed to read screenhsot open /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083760032100463645374854971056485307.png: no such file or directory
+30-12-2020 12:11:00.525 [html-report] [WARNING] Failed to read screenhsot open /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083760111328626159639192564600435643.png: no such file or directory
+30-12-2020 12:11:00.525 [html-report] [WARNING] Failed to read screenhsot open /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/.gauge/screenshots/screenshot-27083760111328626159639192564600435643.png: no such file or directory
+30-12-2020 12:11:00.526 [html-report] [INFO] Successfully generated html-report to => /home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/reports/html-report/index.html
+30-12-2020 12:11:00.526 [html-report] [DEBUG] Done generating HTML report using theme from /home/ubuntu/.gauge/plugins/html-report/4.0.12/themes/default
+30-12-2020 12:11:00.526 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+30-12-2020 12:11:00.539 [python] [DEBUG] KillProcessrequest received
+30-12-2020 12:11:01.143 [Gauge] [DEBUG] Runner with PID:17006 has exited
+30-12-2020 12:11:01.143 [Gauge] [INFO] Specifications:	3 executed	0 passed	3 failed	0 skipped
+30-12-2020 12:11:01.143 [Gauge] [INFO] Scenarios:	5 executed	0 passed	5 failed	0 skipped
+30-12-2020 12:11:01.143 [Gauge] [INFO] 
+Total time taken: 11.334s
+30-12-2020 12:11:01.144 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.

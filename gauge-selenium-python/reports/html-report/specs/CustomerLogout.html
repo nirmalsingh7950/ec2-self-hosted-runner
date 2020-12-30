@@ -19,7 +19,7 @@
         <div class="logo">
           <a href=".."><img src="../images/gaugeLogo.png" alt="Report logo"></a>
         </div>
-        <h2 class="project">Project: python-selenium</h2>
+        <h2 class="project">Project: gauge-selenium-python</h2>
       </div>
     </div>
   </header>
@@ -28,63 +28,95 @@
 
 	
   <div class="report-overview">
-    <div class="report_chart">
-      <div class="chart">
-        <svg id="pie-chart" data-results="0,3,0" data-total="3">
-          <path class="status failed" />
-          <path class="shadow failed" data-status="failed"><title>Failed: 0/3</title></path>
-          <path class="status passed" />
-          <path class="shadow passed" data-status="passed"><title>Passed: 3/3</title></path>
-          <path class="status skipped" />
-          <path class="shadow skipped" data-status="skipped"><title>Skipped: 0/3</title></path>
-        </svg>
-      </div>
+   
+  <div class="report_chart">
+    <div class="chart">
+      <svg id="pie-chart" data-results="3,0,0" data-total="3">
+        <path class="status failed" />
+        <path class="shadow failed" data-status="failed"><title>Failed: 3/3</title></path>
+        <path class="status passed" />
+        <path class="shadow passed" data-status="passed"><title>Passed: 0/3</title></path>
+        <path class="status skipped" />
+        <path class="shadow skipped" data-status="skipped"><title>Skipped: 0/3</title></path>
+      </svg>
     </div>
-    <div class="report_test-results">
-      <div class="report_test-result specs">
-          <div class="total-specs" title="Filter all specs"><span class="txt">Total specs</span><span class="value">3</span></div>
-          <div class="fail spec-filter" data-status="failed" title="Filter failed specs"><span class="value">0</span></div>
-          <div class="pass spec-filter" data-status="passed" title="Filter passed specs"><span class="value">3</span></div>
-          <div class="skip spec-filter" data-status="skipped" title="Filter skipped specs"><span class="value">0</span></div>
-      </div>
-      <div class="report_test-result scenarios">
-          <div class="total-scenarios"><span class="txt">Total scenario</span><span class="value">5</span></div>
-          <div class="fail scenario-stats" data-status="failed"><span class="value">0</span></div>
-          <div class="pass scenario-stats" data-status="passed"><span class="value">5</span></div>
-          <div class="skip scenario-stats" data-status="skipped"><span class="value">0</span></div>
-      </div>
+  </div>
+
+   
+  <div class="report_test-results">
+    <div class="report_test-result specs">
+        <div class="total-specs" title="Filter all specs"><span class="txt">Total specs</span><span class="value">3</span></div>
+        <div class="fail spec-filter" data-status="failed" title="Filter failed specs"><span class="value">3</span></div>
+        <div class="pass spec-filter" data-status="passed" title="Filter passed specs"><span class="value">0</span></div>
+        <div class="skip spec-filter" data-status="skipped" title="Filter skipped specs"><span class="value">0</span></div>
     </div>
+    <div class="report_test-result scenarios">
+        <div class="total-scenarios"><span class="txt">Total scenario</span><span class="value">5</span></div>
+        <div class="fail scenario-stats" data-status="failed"><span class="value">5</span></div>
+        <div class="pass scenario-stats" data-status="passed"><span class="value">0</span></div>
+        <div class="skip scenario-stats" data-status="skipped"><span class="value">0</span></div>
+    </div>
+  </div>
+
     <div class="report_details">
-      <ul>
-        <li>
-          <label>Environment </label>
-          <span>default</span>
-        </li>
-        
-        <li>
-          <label>Success Rate </label>
-          <span>100%</span>
-        </li>
-        <li>
-          <label>Total Time </label>
-          <span>00:00:24</span>
-        </li>
-        <li>
-          <label>Generated On </label>
-          <span>Dec 23, 2020 at 3:20pm</span>
-        </li>
-      </ul>
+      
+  <ul>
+    <li>
+      <label>Environment </label>
+      <span>default</span>
+    </li>
+    
+    <li>
+      <label>Success Rate </label>
+      <span>0%</span>
+    </li>
+    <li>
+      <label>Total Time </label>
+      <span>00:00:11</span>
+    </li>
+    <li>
+      <label>Generated On </label>
+      <span>Dec 30, 2020 at 12:10pm</span>
+    </li>
+  </ul>
+
       
   
 
       
   
+  
+
 
     </div>
   </div>
 
 
 	
+
+	
+		
+  <div class="error-container failed">
+    <div class="error-heading">After Suite Failed:<span class="error-message"> HTTPConnectionPool(host=&#39;127.0.0.1&#39;, port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/window (Caused by NewConnectionError(&#39;&lt;urllib3.connection.HTTPConnection object at 0x7f48ecf08dd8&gt;: Failed to establish a new connection: [Errno 111] Connection refused&#39;,))</span></div>
+    <div class="toggle-show">
+      [Show details]
+    </div>
+    <div class="exception-container hidden">
+      <div class="exception">
+        <pre class="stacktrace">Traceback (most recent call last):<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connection.py&#34;, line 144, in _new_conn<br/>    (self.host, self.port), self.timeout, **extra_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/util/connection.py&#34;, line 83, in create_connection<br/>    raise err<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/util/connection.py&#34;, line 73, in create_connection<br/>    sock.connect(sa)<br/>ConnectionRefusedError: [Errno 111] Connection refused<br/><br/>During handling of the above exception, another exception occurred:<br/><br/>Traceback (most recent call last):<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 601, in urlopen<br/>    chunked=chunked)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 357, in _make_request<br/>    conn.request(method, url, **httplib_request_kw)<br/>  File &#34;/usr/lib/python3.6/http/client.py&#34;, line 1281, in request<br/>    self._send_request(method, url, body, headers, encode_chunked)<br/>  File &#34;/usr/lib/python3.6/http/client.py&#34;, line 1327, in _send_request<br/>    self.endheaders(body, encode_chunked=encode_chunked)<br/>  File &#34;/usr/lib/python3.6/http/client.py&#34;, line 1276, in endheaders<br/>    self._send_output(message_body, encode_chunked=encode_chunked)<br/>  File &#34;/usr/lib/python3.6/http/client.py&#34;, line 1042, in _send_output<br/>    self.send(msg)<br/>  File &#34;/usr/lib/python3.6/http/client.py&#34;, line 980, in send<br/>    self.connect()<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connection.py&#34;, line 169, in connect<br/>    conn = self._new_conn()<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connection.py&#34;, line 153, in _new_conn<br/>    self, &#34;Failed to establish a new connection: %s&#34; % e)<br/>urllib3.exceptions.NewConnectionError: &lt;urllib3.connection.HTTPConnection object at 0x7f48ecf08dd8&gt;: Failed to establish a new connection: [Errno 111] Connection refused<br/><br/>During handling of the above exception, another exception occurred:<br/><br/>Traceback (most recent call last):<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/getgauge/executor.py&#34;, line 33, in execute_method<br/>    step.impl(*params)<br/>  File &#34;/home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/step_impl/utils/driver.py&#34;, line 17, in close<br/>    Driver.driver.close()<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py&#34;, line 688, in close<br/>    self.execute(Command.CLOSE)<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py&#34;, line 319, in execute<br/>    response = self.command_executor.execute(driver_command, params)<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py&#34;, line 374, in execute<br/>    return self._request(command_info[0], url, body=data)<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py&#34;, line 397, in _request<br/>    resp = self._conn.request(method, url, body=body, headers=headers)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/request.py&#34;, line 66, in request<br/>    **urlopen_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/request.py&#34;, line 87, in request_encode_url<br/>    return self.urlopen(method, url, **extra_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/poolmanager.py&#34;, line 322, in urlopen<br/>    response = conn.urlopen(method, u.request_uri, **kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 668, in urlopen<br/>    **response_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 668, in urlopen<br/>    **response_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 668, in urlopen<br/>    **response_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 639, in urlopen<br/>    _stacktrace=sys.exc_info()[2])<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/util/retry.py&#34;, line 398, in increment<br/>    raise MaxRetryError(_pool, url, error or ResponseError(cause))<br/>urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host=&#39;127.0.0.1&#39;, port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/window (Caused by NewConnectionError(&#39;&lt;urllib3.connection.HTTPConnection object at 0x7f48ecf08dd8&gt;: Failed to establish a new connection: [Errno 111] Connection refused&#39;,))<br/></pre>
+      </div>
+      
+        <div class="screenshot-container">
+          <div class="screenshot">
+            <a href="../images/screenshot-27083760190556788673903530158144385979.png" rel="lightbox">
+              <img src="../images/screenshot-27083760190556788673903530158144385979.png" class="screenshot-thumbnail" />
+            </a>
+          </div>
+        </div>
+      
+      
+    </div>
+  </div>
 
 	
 
@@ -98,16 +130,16 @@
         <input id="searchSpecifications" placeholder="Type specification or tag name" type="text" />
         <i class="fa fa-search"></i>
       </div>
-      <div class='specs-sorting'>
-        <div class="sort sort-specs-name" data-sort-by="specs-name"><span class='sort-icons'><i class="fa fa-caret-up"></i><i class="fa fa-caret-down"></i></span><span>Name</span></div>
-        <div class="sort sort-execution-time" data-sort-by="execution-time"><span class='sort-icons'><i class="fa fa-caret-up"></i><i class="fa fa-caret-down"></i></span><span>Execution time</span></div>
+      <div class="specs-sorting">
+        <div class="sort sort-specs-name" data-sort-by="specs-name"><span class="sort-icons"><i class="fa fa-caret-up"></i><i class="fa fa-caret-down"></i></span><span>Name</span></div>
+        <div class="sort sort-execution-time" data-sort-by="execution-time"><span class="sort-icons"><i class="fa fa-caret-up"></i><i class="fa fa-caret-down"></i></span><span>Execution time</span></div>
       </div>
       <div id="listOfSpecifications">
         <ul id="scenarios" class="spec-list">
         
           <a href="CustomerLogout.html">
-             
-              <li class='passed spec-name'>
+            
+              <li class="failed spec-name">
             
               <span id="scenarioName" class="scenarioname">Customer Log out</span>
               <span id="time" class="time">00:00:08</span>
@@ -115,20 +147,20 @@
           </a>
           
           <a href="CustomerSignup.html">
-             
-              <li class='passed spec-name'>
+            
+              <li class="failed spec-name">
             
               <span id="scenarioName" class="scenarioname">Customer sign-up</span>
-              <span id="time" class="time">00:00:02</span>
+              <span id="time" class="time">00:00:00</span>
             </li>
           </a>
           
           <a href="PlaceOrder.html">
-             
-              <li class='passed spec-name'>
+            
+              <li class="failed spec-name">
             
               <span id="scenarioName" class="scenarioname">Place an Order</span>
-              <span id="time" class="time">00:00:09</span>
+              <span id="time" class="time">00:00:00</span>
             </li>
           </a>
           
@@ -143,11 +175,11 @@
   <div id="specificationContainer" class="details">
     <header class="curr-spec">
       <div class="spec-head-wrapper">
-        <h3 class="spec-head" title="/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/CustomerLogout.spec">Customer Log out</h3>
+        <h3 class="spec-head" title="/home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/specs/CustomerLogout.spec">Customer Log out</h3>
         <div class="hidden report_test-results" alt="Scenarios" title="Scenarios">
           <ul>
-            <li class="fail"><span class="value">0</span><span class="txt">Failed</span></li>
-            <li class="pass"><span class="value">2</span><span class="txt">Passed</span></li>
+            <li class="fail"><span class="value">2</span><span class="txt">Failed</span></li>
+            <li class="pass"><span class="value">0</span><span class="txt">Passed</span></li>
             <li class="skip"><span class="value">0</span><span class="txt">Skipped</span></li>
           </ul>
         </div>
@@ -155,7 +187,7 @@
       <div class="spec-meta">
         <div class="spec-filename">
           <label for="specFileName">File Path</label>
-          <input id="specFileName" value="/home/nirmal/Documents/Nirmal/Xenonstack/gauge/with-selenium/python-selenium/specs/CustomerLogout.spec" readonly/>
+          <input id="specFileName" value="/home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/specs/CustomerLogout.spec" readonly/>
           <button class="clipboard-btn" data-clipboard-target="#specFileName" title="Copy to Clipboard">
               <i class="fa fa-clipboard" aria-hidden="true" title="Copy to Clipboard"></i>
           </button>
@@ -174,6 +206,7 @@
 
     
     
+    
 
     <div class="content">
     
@@ -187,12 +220,12 @@
       </tr>
       <tbody data-rowCount=2>
         
-          <tr class='row-selector passed selected' data-rowIndex='0'>
+          <tr class="row-selector failed selected" data-rowIndex='0'>
           
             <td>John18</td><td>john18.doe@example.com</td><td>password</td>
         </tr>
         
-          <tr class='row-selector passed' data-rowIndex='1'>
+          <tr class="row-selector failed" data-rowIndex='1'>
           
             <td>Jane18</td><td>jane18.doe@example.com</td><td>password</td>
         </tr>
@@ -208,13 +241,14 @@
       
         
 	
-  <div class='scenario-container passed' data-tablerow='0'>
+  <div class="scenario-container failed"  data-tablerow='0'>
     
 
 	
   <div class="scenario-head">
     <h3 class="head borderBottom">Customer must be able to log out</h3>
-    <span class="time">00:00:05</span>
+    
+    <span class="time">00:00:08</span>
 
 	
   
@@ -226,26 +260,27 @@
   
   
 
+  
 	
 
   
-    <div class='context-step'>
+    <div class="context-step">
       
   
     
   
-  <div class='step concept'>
+  <div class="step concept">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:02</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:01</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info passed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   <i class="fa fa-plus-square" aria-hidden="true"></i>
@@ -260,24 +295,24 @@
   </div>
 
   </li></ul></div></div>
-  <div class='concept-steps'>
+  <div class="concept-steps">
   
     
   
     
   
-  <div class='step'>
+  <div class="step">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:02</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info passed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   
@@ -286,6 +321,8 @@
   
   
 
+  
+  
   
   
   
@@ -303,6 +340,7 @@
   
 
     
+    
   
 
   
@@ -313,6 +351,7 @@
   
   
 
+  
 	</li></ul></div></div>
   
     
@@ -325,18 +364,18 @@
   
     
   
-  <div class='step'>
+  <div class="step">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:00</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info passed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   
@@ -345,6 +384,8 @@
   
   
 
+  
+  
   
   
   
@@ -362,6 +403,7 @@
   
 
     
+    
   
 
   
@@ -372,6 +414,7 @@
   
   
 
+  
 	</li></ul></div></div>
   
     
@@ -391,18 +434,18 @@
   
     
   
-  <div class='step'>
+  <div class="step">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:02</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info passed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   
@@ -411,6 +454,8 @@
   
   
 
+  
+  
   
   
   
@@ -421,7 +466,7 @@
     
   
     
-      <span class='parameter'>"John18"</span>
+      <span class="parameter">"John18"</span>
     
   
     
@@ -431,7 +476,7 @@
     
   
     
-      <span class='parameter'>"john18.doe@example.com"</span>
+      <span class="parameter">"john18.doe@example.com"</span>
     
   
     
@@ -441,7 +486,7 @@
     
   
     
-      <span class='parameter'>"password"</span>
+      <span class="parameter">"password"</span>
     
   
   </div>
@@ -452,6 +497,7 @@
   
 
     
+    
   
 
   
@@ -462,6 +508,7 @@
   
   
 
+  
 	</li></ul></div></div>
   
     
@@ -474,18 +521,18 @@
   
     
   
-  <div class='step concept'>
+  <div class="step concept">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:00</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:06</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info failed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   <i class="fa fa-plus-square" aria-hidden="true"></i>
@@ -500,24 +547,24 @@
   </div>
 
   </li></ul></div></div>
-  <div class='concept-steps'>
+  <div class="concept-steps">
   
     
   
     
   
-  <div class='step'>
+  <div class="step">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:00</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:06</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info passed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   
@@ -526,6 +573,8 @@
   
   
 
+  
+  
   
   
   
@@ -543,6 +592,7 @@
   
 
     
+    
   
 
   
@@ -553,6 +603,7 @@
   
   
 
+  
 	</li></ul></div></div>
   
     
@@ -565,18 +616,18 @@
   
     
   
-  <div class='step'>
+  <div class="step">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:00</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:06</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info failed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   
@@ -585,6 +636,8 @@
   
   
 
+  
+  
   
   
   
@@ -595,7 +648,7 @@
     
   
     
-      <span class='parameter'>"You have been logged out."</span>
+      <span class="parameter">"You have been logged out."</span>
     
   
     
@@ -605,17 +658,40 @@
     
   
     
-      <span class='parameter'>"Log in"</span>
+      <span class="parameter">"Log in"</span>
     
   
   </div>
 
   
     
+        
+  <div class="error-container failed">
+    <div class="exception-container">
+      <div class="exception">
+        <h4 class="error-message">
+          <pre>HTTPConnectionPool(host=&#39;127.0.0.1&#39;, port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/element (Caused by NewConnectionError(&#39;&lt;urllib3.connection.HTTPConnection object at 0x7f48ecf75f28&gt;: Failed to establish a new connection: [Errno 111] Connection refused&#39;,))</pre>
+        </h4>
+        <pre class="stacktrace">Traceback (most recent call last):<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connection.py&#34;, line 144, in _new_conn<br/>    (self.host, self.port), self.timeout, **extra_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/util/connection.py&#34;, line 83, in create_connection<br/>    raise err<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/util/connection.py&#34;, line 73, in create_connection<br/>    sock.connect(sa)<br/>ConnectionRefusedError: [Errno 111] Connection refused<br/><br/>During handling of the above exception, another exception occurred:<br/><br/>Traceback (most recent call last):<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 601, in urlopen<br/>    chunked=chunked)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 357, in _make_request<br/>    conn.request(method, url, **httplib_request_kw)<br/>  File &#34;/usr/lib/python3.6/http/client.py&#34;, line 1281, in request<br/>    self._send_request(method, url, body, headers, encode_chunked)<br/>  File &#34;/usr/lib/python3.6/http/client.py&#34;, line 1327, in _send_request<br/>    self.endheaders(body, encode_chunked=encode_chunked)<br/>  File &#34;/usr/lib/python3.6/http/client.py&#34;, line 1276, in endheaders<br/>    self._send_output(message_body, encode_chunked=encode_chunked)<br/>  File &#34;/usr/lib/python3.6/http/client.py&#34;, line 1042, in _send_output<br/>    self.send(msg)<br/>  File &#34;/usr/lib/python3.6/http/client.py&#34;, line 980, in send<br/>    self.connect()<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connection.py&#34;, line 169, in connect<br/>    conn = self._new_conn()<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connection.py&#34;, line 153, in _new_conn<br/>    self, &#34;Failed to establish a new connection: %s&#34; % e)<br/>urllib3.exceptions.NewConnectionError: &lt;urllib3.connection.HTTPConnection object at 0x7f48ecf75f28&gt;: Failed to establish a new connection: [Errno 111] Connection refused<br/><br/>During handling of the above exception, another exception occurred:<br/><br/>Traceback (most recent call last):<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/getgauge/executor.py&#34;, line 33, in execute_method<br/>    step.impl(*params)<br/>  File &#34;/home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/step_impl/utils/flashMessages.py&#34;, line 8, in showAMessage<br/>    webDriver.find_element_by_link_text(linkText)<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py&#34;, line 428, in find_element_by_link_text<br/>    return self.find_element(by=By.LINK_TEXT, value=link_text)<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py&#34;, line 978, in find_element<br/>    &#39;value&#39;: value})[&#39;value&#39;]<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py&#34;, line 319, in execute<br/>    response = self.command_executor.execute(driver_command, params)<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py&#34;, line 374, in execute<br/>    return self._request(command_info[0], url, body=data)<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py&#34;, line 397, in _request<br/>    resp = self._conn.request(method, url, body=body, headers=headers)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/request.py&#34;, line 70, in request<br/>    **urlopen_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/request.py&#34;, line 148, in request_encode_body<br/>    return self.urlopen(method, url, **extra_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/poolmanager.py&#34;, line 322, in urlopen<br/>    response = conn.urlopen(method, u.request_uri, **kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 668, in urlopen<br/>    **response_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 668, in urlopen<br/>    **response_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 668, in urlopen<br/>    **response_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 639, in urlopen<br/>    _stacktrace=sys.exc_info()[2])<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/util/retry.py&#34;, line 398, in increment<br/>    raise MaxRetryError(_pool, url, error or ResponseError(cause))<br/>urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host=&#39;127.0.0.1&#39;, port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/element (Caused by NewConnectionError(&#39;&lt;urllib3.connection.HTTPConnection object at 0x7f48ecf75f28&gt;: Failed to establish a new connection: [Errno 111] Connection refused&#39;,))<br/></pre>
+      </div>
+      
+         <div class="screenshot-container">
+          <div class="screenshot">
+            <a href="../images/screenshot-27083759794415976102581842190424634299.png" rel="lightbox">
+              <img src="../images/screenshot-27083759794415976102581842190424634299.png" class="screenshot-thumbnail" />
+            </a>
+          </div>
+        </div>
+      
+    </div>
+  </div>
+
+    
     
   
 
     
+    
   
 
   
@@ -626,6 +702,7 @@
   
   
 
+  
 	</li></ul></div></div>
   
     
@@ -638,18 +715,18 @@
   
     
   
-  <div class='step'>
+  <div class="step">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:00</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info not-executed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   
@@ -658,6 +735,8 @@
   
   
 
+  
+  
   
   
   
@@ -675,6 +754,7 @@
   
 
     
+    
   
 
   
@@ -685,6 +765,7 @@
   
   
 
+  
 	</li></ul></div></div>
   
     
@@ -706,19 +787,21 @@
   
   
 
+  
 	
 	</div>
 
       
         
 	
-  <div class='scenario-container passed hidden' data-tablerow='1'>
+  <div class="scenario-container failed hidden"  data-tablerow='1'>
     
 
 	
   <div class="scenario-head">
     <h3 class="head borderBottom">Customer must be able to log out</h3>
-    <span class="time">00:00:02</span>
+    
+    <span class="time">00:00:00</span>
 
 	
   
@@ -730,26 +813,27 @@
   
   
 
+  
 	
 
   
-    <div class='context-step'>
+    <div class="context-step">
       
   
     
   
-  <div class='step concept'>
+  <div class="step concept">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:00</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info failed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   <i class="fa fa-plus-square" aria-hidden="true"></i>
@@ -764,24 +848,24 @@
   </div>
 
   </li></ul></div></div>
-  <div class='concept-steps'>
+  <div class="concept-steps">
   
     
   
     
   
-  <div class='step'>
+  <div class="step">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:00</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info failed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   
@@ -790,6 +874,8 @@
   
   
 
+  
+  
   
   
   
@@ -803,10 +889,33 @@
 
   
     
+        
+  <div class="error-container failed">
+    <div class="exception-container">
+      <div class="exception">
+        <h4 class="error-message">
+          <pre>HTTPConnectionPool(host=&#39;127.0.0.1&#39;, port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/url (Caused by NewConnectionError(&#39;&lt;urllib3.connection.HTTPConnection object at 0x7f48ecf081d0&gt;: Failed to establish a new connection: [Errno 111] Connection refused&#39;,))</pre>
+        </h4>
+        <pre class="stacktrace">Traceback (most recent call last):<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connection.py&#34;, line 144, in _new_conn<br/>    (self.host, self.port), self.timeout, **extra_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/util/connection.py&#34;, line 83, in create_connection<br/>    raise err<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/util/connection.py&#34;, line 73, in create_connection<br/>    sock.connect(sa)<br/>ConnectionRefusedError: [Errno 111] Connection refused<br/><br/>During handling of the above exception, another exception occurred:<br/><br/>Traceback (most recent call last):<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 601, in urlopen<br/>    chunked=chunked)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 357, in _make_request<br/>    conn.request(method, url, **httplib_request_kw)<br/>  File &#34;/usr/lib/python3.6/http/client.py&#34;, line 1281, in request<br/>    self._send_request(method, url, body, headers, encode_chunked)<br/>  File &#34;/usr/lib/python3.6/http/client.py&#34;, line 1327, in _send_request<br/>    self.endheaders(body, encode_chunked=encode_chunked)<br/>  File &#34;/usr/lib/python3.6/http/client.py&#34;, line 1276, in endheaders<br/>    self._send_output(message_body, encode_chunked=encode_chunked)<br/>  File &#34;/usr/lib/python3.6/http/client.py&#34;, line 1042, in _send_output<br/>    self.send(msg)<br/>  File &#34;/usr/lib/python3.6/http/client.py&#34;, line 980, in send<br/>    self.connect()<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connection.py&#34;, line 169, in connect<br/>    conn = self._new_conn()<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connection.py&#34;, line 153, in _new_conn<br/>    self, &#34;Failed to establish a new connection: %s&#34; % e)<br/>urllib3.exceptions.NewConnectionError: &lt;urllib3.connection.HTTPConnection object at 0x7f48ecf081d0&gt;: Failed to establish a new connection: [Errno 111] Connection refused<br/><br/>During handling of the above exception, another exception occurred:<br/><br/>Traceback (most recent call last):<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/getgauge/executor.py&#34;, line 33, in execute_method<br/>    step.impl(*params)<br/>  File &#34;/home/ubuntu/Documents/gauge-selenium/ec2-self-hosted-runner/gauge-selenium-python/step_impl/appLauncher.py&#34;, line 7, in gotoStoreWebsite<br/>    Driver.driver.get(URL)<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py&#34;, line 333, in get<br/>    self.execute(Command.GET, {&#39;url&#39;: url})<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py&#34;, line 319, in execute<br/>    response = self.command_executor.execute(driver_command, params)<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py&#34;, line 374, in execute<br/>    return self._request(command_info[0], url, body=data)<br/>  File &#34;/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py&#34;, line 397, in _request<br/>    resp = self._conn.request(method, url, body=body, headers=headers)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/request.py&#34;, line 70, in request<br/>    **urlopen_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/request.py&#34;, line 148, in request_encode_body<br/>    return self.urlopen(method, url, **extra_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/poolmanager.py&#34;, line 322, in urlopen<br/>    response = conn.urlopen(method, u.request_uri, **kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 668, in urlopen<br/>    **response_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 668, in urlopen<br/>    **response_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 668, in urlopen<br/>    **response_kw)<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/connectionpool.py&#34;, line 639, in urlopen<br/>    _stacktrace=sys.exc_info()[2])<br/>  File &#34;/usr/lib/python3/dist-packages/urllib3/util/retry.py&#34;, line 398, in increment<br/>    raise MaxRetryError(_pool, url, error or ResponseError(cause))<br/>urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host=&#39;127.0.0.1&#39;, port=42853): Max retries exceeded with url: /session/19ddaaa8da9d34acb1c9d81e3b8aa278/url (Caused by NewConnectionError(&#39;&lt;urllib3.connection.HTTPConnection object at 0x7f48ecf081d0&gt;: Failed to establish a new connection: [Errno 111] Connection refused&#39;,))<br/></pre>
+      </div>
+      
+         <div class="screenshot-container">
+          <div class="screenshot">
+            <a href="../images/screenshot-27083759873644138616846179783968584635.png" rel="lightbox">
+              <img src="../images/screenshot-27083759873644138616846179783968584635.png" class="screenshot-thumbnail" />
+            </a>
+          </div>
+        </div>
+      
+    </div>
+  </div>
+
+    
     
   
 
     
+    
   
 
   
@@ -817,6 +926,7 @@
   
   
 
+  
 	</li></ul></div></div>
   
     
@@ -829,18 +939,18 @@
   
     
   
-  <div class='step'>
+  <div class="step">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:00</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info not-executed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   
@@ -849,6 +959,8 @@
   
   
 
+  
+  
   
   
   
@@ -866,6 +978,7 @@
   
 
     
+    
   
 
   
@@ -876,6 +989,7 @@
   
   
 
+  
 	</li></ul></div></div>
   
     
@@ -895,18 +1009,18 @@
   
     
   
-  <div class='step'>
+  <div class="step">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:01</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info not-executed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   
@@ -915,6 +1029,8 @@
   
   
 
+  
+  
   
   
   
@@ -925,7 +1041,7 @@
     
   
     
-      <span class='parameter'>"Jane18"</span>
+      <span class="parameter">"Jane18"</span>
     
   
     
@@ -935,7 +1051,7 @@
     
   
     
-      <span class='parameter'>"jane18.doe@example.com"</span>
+      <span class="parameter">"jane18.doe@example.com"</span>
     
   
     
@@ -945,7 +1061,7 @@
     
   
     
-      <span class='parameter'>"password"</span>
+      <span class="parameter">"password"</span>
     
   
   </div>
@@ -956,6 +1072,7 @@
   
 
     
+    
   
 
   
@@ -966,6 +1083,7 @@
   
   
 
+  
 	</li></ul></div></div>
   
     
@@ -978,18 +1096,18 @@
   
     
   
-  <div class='step concept'>
+  <div class="step concept">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:00</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info not-executed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   <i class="fa fa-plus-square" aria-hidden="true"></i>
@@ -1004,24 +1122,24 @@
   </div>
 
   </li></ul></div></div>
-  <div class='concept-steps'>
+  <div class="concept-steps">
   
     
   
     
   
-  <div class='step'>
+  <div class="step">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:00</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info not-executed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   
@@ -1030,6 +1148,8 @@
   
   
 
+  
+  
   
   
   
@@ -1047,6 +1167,7 @@
   
 
     
+    
   
 
   
@@ -1057,6 +1178,7 @@
   
   
 
+  
 	</li></ul></div></div>
   
     
@@ -1069,18 +1191,18 @@
   
     
   
-  <div class='step'>
+  <div class="step">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:00</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info not-executed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   
@@ -1089,6 +1211,8 @@
   
   
 
+  
+  
   
   
   
@@ -1099,7 +1223,7 @@
     
   
     
-      <span class='parameter'>"You have been logged out."</span>
+      <span class="parameter">"You have been logged out."</span>
     
   
     
@@ -1109,7 +1233,7 @@
     
   
     
-      <span class='parameter'>"Log in"</span>
+      <span class="parameter">"Log in"</span>
     
   
   </div>
@@ -1120,6 +1244,7 @@
   
 
     
+    
   
 
   
@@ -1130,6 +1255,7 @@
   
   
 
+  
 	</li></ul></div></div>
   
     
@@ -1142,18 +1268,18 @@
   
     
   
-  <div class='step'>
+  <div class="step">
   
   
-    <h5 class='execution-time'>
-      <span class='time'>Execution Time : 00:00:00</span>
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class='step-info passed'>
+  <div class="step-info not-executed">
   
   <ul>
-    <li class='step'>
-      <div class='step-txt'>
+    <li class="step">
+      <div class="step-txt">
 
 
   
@@ -1162,6 +1288,8 @@
   
   
 
+  
+  
   
   
   
@@ -1179,6 +1307,7 @@
   
 
     
+    
   
 
   
@@ -1189,6 +1318,7 @@
   
   
 
+  
 	</li></ul></div></div>
   
     
@@ -1210,6 +1340,7 @@
   
   
 
+  
 	
 	</div>
 
@@ -1221,6 +1352,7 @@
     
   
 
+    
     
     
     </div>
